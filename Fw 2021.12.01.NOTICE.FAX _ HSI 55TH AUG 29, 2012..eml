@@ -1,0 +1,1029 @@
+From - Mon Aug  1 23:37:59 2022
+X-Account-Key: account1
+X-UIDL: ACXTdWE5arLbYuiaGwXviGzvt5Q
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.155
+ by atlas108.free.mail.gq1.yahoo.com with HTTPS; Tue, 2 Aug 2022 03:29:30 +0000
+Return-Path: <bo.dincer@yahoo.com>
+X-Originating-Ip: [98.137.64.146]
+Received-SPF: pass (domain of yahoo.com designates 98.137.64.146 as permitted sender)
+Authentication-Results: atlas108.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 2 Aug 2022 03:29:31 +0000
+X-YMailAVSC: p.g2me43bBuyjE1vTFYGre3_uoDb1Uff4TKxgriwltL.W0P
+ o9NOLHphtGkCJkfauiQ6QSv2cx8Ee6SFnPcBHiyHrI.26IjyBXzdXGxJMPNA
+ _mLnP1.SNNcRYjysfutiLDMdl47z8hc3AHrKgtlAj7lr9cJz_zFDBJLqsvkw
+ NH_twkUfrrObZHwZ.ct4hYEG95hSKQZ4GUXEKknGV0m781sTB4O4CvBYk6FA
+ 79PHjzhIVVKw6_DXNMz8Npp93YvvXxPwL2qy8w.XEdA4MuAwY5xosDzSQCcA
+ H2Uya6ur1IyGc_qlVYFlx4eZ0DLbVC9HjfYIN.akqsgr.v7ZFEYhkgRnuwxy
+ HUKYuxVz3jyyeuDAJnOdTpJpRJcKIk3OeYshv842tMBhQ7.0xByTSmZJDPLL
+ _YtRD7bJvpi4GmPE8Ti7CBTxjwHovPsHB_ILK0CZacgLWYNV5M.tFq5fHNX.
+ czzqMNHWl9QaF4jweKwUO.rNkGOWK9wpq8zkoAxMUbykdnmMjDGohzaifJ6Z
+ Dv1qI0pmd5Z.W7RRDwFVehkmjXQpkTbIhUoiPdKCrOzfqT9.D4QrRyLVeATG
+ wPtTMd9MZ__BlYAiC1vAi.OjwFXWvoiJBOxkAgrNVN3_ZCxtIpoDtrBB3X_r
+ C7HvnLritYlFsVcYAqa_oHtAK5zSIIQSomJzgUUKJhWs.o7Y_KHEZ_7dpVpE
+ pay.Z7AX7heolhe1.x37tNgzf8vGfSLBKv0esral4bmVnL5U.ZFK4j_qlQje
+ vNuJISsEcEMhFlHCpqQEDBoCp73_zxaVT1Dfa0Hs58DDeSmoyyGIDJBvw1jl
+ _Z5iIMbIutvkmlW8ATiNPf5mzDqX.zPVKsqWWbcWyHxgLHfxyY_WUQF1eoTN
+ euhqSlBDQzY2gOoU79CkmTd6Zw74JXcT6MxG28g7YzPdQ0tWppGIeTGeGvPk
+ CY7u7SrMOWstogn7gIiHeDhihmWw09b0WB9O6ijpl4ihwB4Cexag7H5Sn7xb
+ 0Etm8yzMLOouhJth.NMwH_n8tHMSjZ6zYUJOFoAALbEZIdg6zEtDUbv4ro85
+ CEPelVl1KilnRoXQK6CqAei43te0lNaCgoqhFbeWZ.H8AI3C4OsMw0GaIGYU
+ 9ZvqEthVoQdpHI.OWjbl7HUo65fJ.DMLPN6ihlBSCeVajCoKqqwLNc7ur.4x
+ RojTMN9bHxza63HSRqSiwUe3005y7_Ctd0Uturt1PRg5vFxAydyDk3Qd_Z8t
+ lvHDTH_kIbPfmQrbbWBDJmSAd.rWXoT1Xa0UsVl3N_phVgHYDd7mDVbJ64dn
+ CcXixOiFPBVK9gqWUZ5jbrilA3kmIJyp2HF8B5ZXr8BJMhFd8bgXuh6cGybW
+ MP45NAImh6x9LgoOIcOuC2rDSe0iUtEODra1ZsIwPV_api2TPXePvz7opAWI
+ A
+X-YMailISG: N17e0R0WLDv9OUbgUQ4Wr4NPV6e1VW6p9TydidkEswHltyeV
+ hiaVe38lsDPpxBX.bIbnHQwZaPuJwSTyvLeL0n9Oq2zk6aqyMhndY7Lu5vRc
+ ue0ThiPb0R2rlqd.cZ5NF1EY1ZG1epuVIq3fmgDKV6fKaT0ndHy101lC_7sK
+ aZbfJ0LDL3Q06yti.QWC91qm9ahqHVqGhDFxQfwOlyrEiSNaco33zmCuYdNX
+ v.YoKZ.bZeErEpRQZycthrYPap7_oheE_W5c4tkAruzcw4hjvjO1JWTrJjKe
+ ru.te5qe19j22cP0dbpZNQieujuiFyK5bWMtqJANyx..YGTllXDr0aiVHlx9
+ qNFJ.QOPK1jJb6OiPpQTLnmZyGVvPpZtTjHTpf_A8qOd0KQIlkGlq5k_8Bpe
+ XEhDFC4Ni5.S64uhRoZ4jYY0gmH_A3TUDggxNK7BN5TtrDIb6dQijM1GHxLV
+ Q4OqRaWyeibbkuWkDNg4klSFT3MAGpXawIvsF_j28zY3gwvTz9iZAbkzNXhA
+ SUjldeOOF7VK1wM9a51HQjA_woxBv1XVrvtNRrF71HNkx0z9XLb0dORGM2mF
+ J5KLLEDia69v95ExGaCoWy9DY3H2B8vllYkCAa88wnn3tNkENAIx60cKzm4S
+ W6DMGZImzPE0QS_qid04N61vP8LBFXTSsj1a16KdSRVcz21G3cPc8vLe2kdT
+ _gA0vmIfwJQ3zihHWtDUbwe6V2V1yUhAylaOB0yE1rHB5Q2WCRC5RZF7yTnB
+ uvsu0U8.x1EtCppfvF7ybxUsGb0Z8SfvZJlEJEbiymRmOOXHqOh1kVkanS.e
+ zqDSUx.fFm4QJ78Ia1zefp5b1xO5EiKL5IYd6lci2mHznnL1irSdqY156ch_
+ qLYmN30_CMGJ.00ns5TXUTrhFzQpTcyQ_3TnQneDDRhfmIt0bz_4acNlWbqY
+ cLPAtB0JEOU2pDxAxkgqeGF2RPyDpBViWHPK26lF9dWGTLasFldeNPeiQ1US
+ n5uj1crDfxsqYc6y_ku.kYu3.EB27aBE9PFZj2Zcvgvw.lpCNm7n8JrWMqp3
+ DadTJw3MSHrJ.A5yAkEEi99ad6ghVFJvp6li9kRNu3G8jpGh2tC_8kBUuCjp
+ uNfTjf_mtATm2pLQSw8mGnNJV99CG7O_KH4Ok7qW3okxn6P_nrx7BrZSzSuK
+Received: from 98.137.64.146 (EHLO sonic301-20.consmr.mail.gq1.yahoo.com)
+ by 10.253.62.155 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 02 Aug 2022 03:29:30 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1659410970; bh=TDLg3p41iGys3/DozfWkHfw5mpLbAHNckbYZLShxxTA=; h=Date:From:Reply-To:To:In-Reply-To:References:Subject:From:Subject:Reply-To; b=NpJMEycm9siOVZfLgvfVvY/TvUoUaRBh4/lw+ntDI1hmZWcEPpxRVMreCJIM9UWrnsQ3bReSIv9CzMA+9H4ZkOqosBdfv2empN8psFsWq7VAyqGqOEunVUYIut1JEz3i7yDHGpRix7aY54yrJPjP+X0ETY8ALKsoGgm+ZnPfaP2r49U3IQfhuu16CN77Z3oUdzwOUCslerpl+78TzpsnEAIJzykQmS7arv1YPY/VZTymMRkXUAz4YbqmfqJwx1UNd6LfArQCKT/rZQdMBi9eyI1Wn5a0RZphmMAR7lTtQ5dyOHBj6lsUVjJaRiZxljeG8VgU/9L99ISE8T5vwHJbPA==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1659410970; bh=K/TCgepi9WpFiqd8YZqRF4OiXUwr4qT1g8cpr/To9Ha=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=HQ+zMJVSoHy9bFl8xPqzmbMt5rIF8OHQdh5r6oTpNk82Cbq3+Tj1cYpwYBRi8jujQ17+to/kzkB9zABg7Dr/SlWOaq5GQv1o3pyhJZsFtLFx0lJaNmnlzygY+gfQn0f7bS2xfoL5qS1TV3uIIixvLGP4GTSY42ucCeyUX1LqXRw3uLF52Sh/SCgorED7/6eAu+wcdJH46QKMTTlMBLwKm++AtUY6hpR0RmIjz/G6keuoDxSZx+oRLN8qtot4m+3pxCpDhdaMXdh+34Q6To2BDD2GzxWrPh6mD+ynfvFi+S7XxO2TikZu+/5nt60iKvb9TPjQzCShpJshBJla2fEoEQ==
+X-YMail-OSG: rOkHXPEVM1khz0TeGfHZOb8H._fINGOKNWfNYf2.C_BfrS4LaiKhAneCQEuqxEI
+ qUAdOZti40L1YTWfTv2kUmvrXuhFvC4pgwH9SVxQHa4JCa4AucZeWQc6Tf4fWqHTqvCt2IoPpbJZ
+ QLDA0gdxE5aFEjNp4akmJrO_Q8NWw8.M1kREcDDH2g3KLQkqMWjr0vBhj4lky9qx3i8BSSsCt4ah
+ zGt2sYf07fiqfQP89DT6WA_AGemCelZ3yj6ejDDPlTGcxS7jW7Qo1P7lh.FbApmHnKY.CODtwQ9x
+ zphbrCgI_gDCNBHVonp.VfLicpaNoedYGff2lq87T0XzpjLBCLEnihGyhP1QTUOJODvX1TXU3oAs
+ mAJqte0vawAzy8XUAU3F_gCoMq954enV0YLQJOOuIJAgpEz6lE2MhVDFP3lyTOKWlBm5jZ8bJRMq
+ eYz8M5cE1Lg5pYbVVJO9mGDj3n00Nhrf61Z2KAXp9ymyf.E21QcTevqsjMA_oYd7KVKUWMzXXSkt
+ .Gf2doLMLTqVRl.agnqirbutn0AwDGkjaFrUMBk2vFsiabv63B8vgBTTr_cK2wxHJtKLxg710vzv
+ FRmXgwu1oJD4faJQFAUozHESiUFeEDU4AmAU3VPWO1XSd6WTMY7tx2RK1m5nNt29vOPQqHHXbp.t
+ AAHRelIb3L_PYO3HsuxWqwyXpmsVVzahJ73rXPjaxE_8cY1qqjpvYvByqn7Pm5RpBL51iZU2.qVP
+ 75mlflTbweGyqVJGYWGH6pOi4Ogv.rNEZJhaPnr3xDPqI8umOYtbfN.UZE5zhM4L.CKRoV5BqLx3
+ gO4gyAYz9a6oMlqzsV.gY64LsFoXKZ9bGsK.nnO3lAe2hz_V2XXo9iDdlvfNkMueWi0jjRMzze1e
+ xU8QIlG6MX.vL9k6tI.5PCHQeH.i81ovug_J4tD2iBY5meI4_cxIlCpcBdYlZz9b_uMKWBlFF6Og
+ Iq.ZFYtnWxYT27ZjaD1p2fmalWbl4R6WKxL7h8UvE2_F.Vp8ex4qGCNvHf4Oy67XA_WQyZQAgOG3
+ 4YHHt1qPk6lMxU688rP3nkOphjtpUtZEebxsY6k8FH6jSwpubdAnf_fYQXz.0knePiO1to20NvuJ
+ hRwiWnULRso0BqrNT7s_KPKpF45NiS5ghlupQrj9jLrsFSLRZIA_TgET.Me1DezoZqNYzQK99IMD
+ YSwHjU2ZO4zI3X7D2eLq.QVFyK31Ql1H45rdFmDAh5zKhkVZRx2JbZYo6toPUQTebOmCfAAxJYO9
+ .QiC4OQ.OpvXsK2h5VYcLGKNFM8IlssBKoolTqXLerETyHCXpqirI1xKKy_buu8yQN3KBmouukjt
+ z4wiskt9DxFyf1LWS3wYvSB621NhEBrLdtc5ABeQrF2deigHgG72sKxebihn4CvqZZbtgsMRzCRG
+ 7NOz.1x8skvJIJy5vcKprVNxzN_L5qgGGYuTVp12WBUOMn_jw2DcbzS85KLyxm5oV6tx93Gg.YFT
+ FceBzzDSx1oanrXOwEh508UVRVwXwCUHfT24QXrd0oRBCXQlJgyiup5IbnTWRRS6CwdNcZj.FOOp
+ pf2hNR1HOufxDFzh0KOTwKwx27amxD_erj7EgMtWDmWy59itwh7SDd8siPIYG53BbbJNOSNqto_t
+ kWal1b0e80Zz3d6k7Y4ZkGORudjSGhCOOyJh9rnZ.rJ2t94UsJSfBbpiATwiLN_6DrJkrzwrPMsi
+ DYrRgHZBE4MURT.lXwfDAeqSh2MkBdjNX6z.BhuuY7EUFfcYiO540ZZv36ajs75t7cOmL_yifmJd
+ Vi9ck9Ft9DdszckeRJKOHWDmS6ZqTk982YqWiw2NbLlee1WcJsB52OqbQs_yrMXiOW4OFCvU_ykI
+ _P86O4y6MlXeE9djwTQg.3iIfAMm8UA67monINfM6ypugqPQC2XZM_S6gHRe34ciRDqS9KgNma63
+ DJdFm8IyZEGLbaAJnl1wooaab7wkOHtr3us3NhOsypO2lz_cE9pSBzjkr7L96IHzqi55V4I2YDPj
+ XUajOFyEVq6mlb6bUw4oLvPjdAP3uQZgMBo9c8gQVnQGxtqymRPdOtNRcJhponDFeUKKsBYzoXeF
+ ir9d2MgKb5QFgEgTdQ62E9PieT.35Z6zljmMQU8JEtz.mZA_dSjnqUySnWBe.zQOA7x_8n5Wrkxf
+ OEGaWn6BDuPWfu7IssF_sV_r554Dj_fHdonMpmMxZZgLG6TpAYiY5iiE2yhOpyvWzOjtr3PlnrZu
+ 9QxmEsSjas29q2HoRsNmIy2574yuuJX5ETtfU1deXBBqfzhZUr7g9wfziIw96gnZn.Rov9Kjdml7
+ HcYny1vKp1qoyjCNqRztLXTJ91gT7fS.Lq20LaOJz8MvjR2qtGnaZ3RLA2_AfRxz3AxgVDkIkvGy
+ 2IJddlCvTHDb0RPy_feH2H6.taFF6
+X-Sonic-MF: <bo.dincer@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic301.consmr.mail.gq1.yahoo.com with HTTP; Tue, 2 Aug 2022 03:29:30 +0000
+Date: Tue, 2 Aug 2022 03:29:26 +0000 (UTC)
+From: Bo Dincer <bo.dincer@yahoo.com>
+Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+To: MILTON MCKENZIE <ms60710444266@yahoo.com>
+Message-ID: <1866698827.102872.1659410966874@mail.yahoo.com>
+In-Reply-To: <766017846.70141.1659405713826@mail.yahoo.com>
+References: <uq-N8XtTBbZ_gK6QzeC30RA4oEew3ZbnaUKQbbMNdNMdlqVk6DkkH7Cp1DClhgknpQshe2jV92Amg30DWVQDuWc4ZzjYQ5WuAxnRE9JJZG0=@protonmail.com> <1642308606.84512.1659130017565@mail.yahoo.com> <766017846.70141.1659405713826@mail.yahoo.com>
+Subject: Fw: 2021.12.01.NOTICE.FAX /// HSI 55TH AUG 29, 2012.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_102871_632029184.1659410966867"
+X-Mailer: WebService/1.1.20447 YahooMailAndroidMobile
+Content-Length: 58085
+
+------=_Part_102871_632029184.1659410966867
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+/S/ BO DINCER=20
+=20
+   ----- Forwarded Message ----- From: "Bo Dincer" <bo.dincer@yahoo.com> To=
+: "BD" <bondstrt@protonmail.com>, "mharvey13@bloomberg.net" <mharvey13@bloo=
+mberg.net>, "ogis@nara.gov" <ogis@nara.gov>, "Governor Hochul" <governor.ho=
+chul@exec.ny.gov>, "jackson@nysenate.gov" <jackson@nysenate.gov>, "Jackie R=
+obinson Foundation" <connect@jackierobinson.org> Cc: "lzucker@mskyline.com"=
+ <lzucker@mskyline.com>, "legal@mskyline.com" <legal@mskyline.com>, "slasko=
+witz@ingramllp.com" <slaskowitz@ingramllp.com>, "super@sullivanmews.com" <s=
+uper@sullivanmews.com>, "David Moore" <david.moore.ct95@statefarm.com>, "Tr=
+aveler Resolutions" <travelerresolutions@expediagroup.com>, "Ir-operations-=
+team" <ir-operations-team@tudor.com>, "irs@service.govdelivery.com" <irs@se=
+rvice.govdelivery.com>, "ir@expedia.com" <ir@expedia.com> Sent: Mon, Aug 1,=
+ 2022 at 10:01 PM Subject: Re: 2021.12.01.NOTICE.FAX /// HSI 55TH AUG 29, 2=
+012. =20
+SAMSUNG GALAXY 10 MAC ADDRESS
+
+![image](https://user-images.githubusercontent.com/110014688/180962145-4afc=
+a31c-94c2-42ce-9f4b-d767d593558e.png)
+![image](https://user-images.githubusercontent.com/110014688/180962450-b42f=
+3ec5-fab7-4fd1-9984-6a286db361cd.png)
+[SAMSUNG NOT PRE-CLEARED AT ANY TIME PRIOR TO JULY 10TH 2022 FOR" casual wi=
+re taps without consent " ](https://github.com/153974-HSI-OXLEY-BANKS-40ACT=
+/153974-HSI-OXLEY-BANKS-40ACT/files/9188080/Yahoo.Mail.Document_.Re_.This.e=
+mail.also.is.not.approved.for.casual.taps.PDF)
+NYSCEF COURT DOCKETS
+
+=C2=A0260=C2=A0 EXHIBIT(S)=C2=A0=C2=A0- 1 =C2=A0(Motion #001)
+
+6.24.2020 email -=C2=A0ASHLEY.HUMPHRIES@WILSONELSER.COM
+  =20
+   -   =20
+DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY=
+ AND CIVIL RIGHTS
+
+   -   =20
+AS A REAL ESTATE ATTORNEY IN NEW YORK CIVIL PART 60, UNDER THE HON. TINGLIN=
+G.
+  =20
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DANDSuLFWlbj=
+ttGxgjUXGAw=3D=3D
+
+
+=C2=A0261=C2=A0 EXHIBIT(S)=C2=A0=C2=A0- 2 =C2=A0(Motion #001)
+
+6.25.2020=C2=A0email-ASHLEY.HUMPHRIES@WILSONELSER.COM=C2=A0- DISTRIBUTE THO=
+SE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIG=
+HTS=C2=A0https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dph=
+76T77EGjUtofiKDKCOoA=3D=3D
+
+/S/ BO DINCER=20
+=20
+  On Fri, Jul 29, 2022 at 5:26 PM, Bo Dincer<bo.dincer@yahoo.com> wrote:   =
+JUST HIT THAT LINK, AND UNDERSTAND.
+-- that was solved inn 48-hours.=C2=A0With the correct devices,
+- THESE PEOPLE HARASSED ME DAILY, ARE NOT IN PRISON
+
+- WILL DENY AND AVOID EVERYONE AND ANYTHING.
+
+*=C2=A0=C2=A0=C2=A0 HEY, THEY GO ABOUT THEIR BUSINESS LIKE THEY DON'T HAVE =
+ANYTHING TO
+SETTLE...*
+
+
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STAT=
+EFARM-SULLIVAN-ZUCKER/commit/f6079e6fdb03b5fd0fd579f2ee926f9f2ffc9bc5#commi=
+tcomment-77027738
+
+
+## FAXED THE PRIOR MSG TO NY SUPREME COURTS, CIVIL BRANCH.
+[ 50074 EAST ++ ]
+https://faxzero.com/status/31316917/6b34c3ad9620003256df358c638765fc2ae387c=
+c
+
+=C2=A0=C2=A0 =C2=A0*** =C2=A0=C2=A0=C2=A0 ***=C2=A0=C2=A0=C2=A0 ***
+Your fax (ID: #31316917) to VARIOUS at 212-401-9146 has been delivered
+successfully at 12:12 AM EST on June 26th, 2022.
+
+
+
+https://faxzero.com/status/30246810/5331540dcefa70818b47fb597bf6a69acfd106b=
+e
+
+=C2=A0=C2=A0 =C2=A0*** =C2=A0=C2=A0=C2=A0 ***=C2=A0=C2=A0=C2=A0 ***
+Your fax (ID: #30246810) to DONALD ZUCKER at 2125869867 has been
+delivered successfully at 9:50 PM EST on December 1st, 2021.
+
+https://faxzero.com/status/30666994/5790f17018611119e07814be9e36110d164afaa=
+6
+
+Your fax (ID: #30666994) to IRS CRIMINAL INVESTIGATIONS at 2674661115
+has been delivered successfully at 11:44 PM EST on February 20th, 2022.
+
+https://faxzero.com/status/30852826/92a1a0570d178d0311eb3764f01842d3ceb6551=
+3
+
+Your fax (ID: #30852826) to JOE MONK at 8164714832 has been delivered
+successfully at 4:42 AM EST on March 26th, 2022.
+
+On 6/26/2022 12:14 PM, B D2022 wrote:
+
+
+WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER>/
+
+
+You=E2=80=99ve activated the/file finder/. Start typing to filter the file =
+list.
+Use=E2=86=91and=E2=86=93to navigate,enterto view files,escto exit.
+
+=C2=A0 * 111.xps
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/111.xps>
+
+=C2=A0 * 2020_05_27 - INDEX and PAPERS.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf>
+
+=C2=A0 * 2022.03.07.CRD.Mutual.Fund.SFBDX.SFITX.STFBX.STFGX.LGL.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/2022.03.07.CRD.Mutual.Fund.SFBDX.SFITX.STF=
+BX.STFGX.LGL.pdf>
+
+=C2=A0 * DOCKET 00048 - COMPLETE.htm
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/DOCKET%2000048%20-%20COMPLETE.htm>
+
+=C2=A0 * DOCKET 00048 - unconsented videotapes - ducker like a zucker
+=C2=A0=C2=A0=C2=A0 BRANCHES TRACKED.html
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/DOCKET%2000048%20-%20unconsented%20videota=
+pes%20-%20ducker%20like%20a%20zucker%20BRANCHES%20TRACKED.html>
+
+=C2=A0 * DOCKET 00048 - unconsented videotapes - ducker like a zucker.html
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/DOCKET%2000048%20-%20unconsented%20videota=
+pes%20-%20ducker%20like%20a%20zucker.html>
+
+=C2=A0 *
+EX69.---.docket.385.--.2020-08-10.--.EMAIL.TO.LAURIE.ZUCKER.AT.1236AM.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/EX69.---.docket.385.--.2020-08-10.--.EMAIL=
+.TO.LAURIE.ZUCKER.AT.1236AM.pdf>
+
+=C2=A0 *
+EX72.---.2020.08.10.---.NOTICE.FROM.COUNSEL.FOR.ZUCKERS.TO.NOT.CONTACT.ANY.=
+AUTHORITY.ENCLOSURE.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/EX72.---.2020.08.10.---.NOTICE.FROM.COUNSE=
+L.FOR.ZUCKERS.TO.NOT.CONTACT.ANY.AUTHORITY.ENCLOSURE.pdf>
+
+=C2=A0 * EXHIBIT_S__383.-.LOAN.50074.--.ME133300053v.2.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/EXHIBIT_S__383.-.LOAN.50074.--.ME133300053=
+v.2.pdf>
+
+=C2=A0 * EnrollmentCertificate.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/EnrollmentCertificate.pdf>
+
+=C2=A0 * IMPUTATION__1.3__ABA.GUIDELINES.ON.CONFLICTS.OF.INTERESTS.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/IMPUTATION__1.3__ABA.GUIDELINES.ON.CONFLIC=
+TS.OF.INTERESTS.pdf>
+
+=C2=A0 * Memo Style1.5.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style1.5.pdf>
+
+=C2=A0 * Memo Style1.7.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style1.7.pdf>
+
+=C2=A0 * Memo Style1.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style1.pdf>
+
+=C2=A0 * Memo Style4.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style4.pdf>
+
+=C2=A0 * Memo Style5.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style5.pdf>
+
+=C2=A0 * Memo Style6.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style6.pdf>
+
+=C2=A0 * Memo Style7.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style7.pdf>
+
+=C2=A0 * Memo Style9.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style9.pdf>
+
+=C2=A0 * NEW YORK PRIVACY LAWS OF MEMORANDUM SUPPLEMENTS - ANNEXED.jpg
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/NEW%20YORK%20PRIVACY%20LAWS%20OF%20MEMORAN=
+DUM%20SUPPLEMENTS%20-%20ANNEXED.jpg>
+
+=C2=A0 * NYC.DEPT.OF.FINANCE.-.PUBLIC.RECORD (1).pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/NYC.DEPT.OF.FINANCE.-.PUBLIC.RECORD%20(1).=
+pdf>
+
+=C2=A0 *=C2=A0Nov.16.2021.-.WMCKENZIE@NYCOURTS.GOV.---.SEC.---.BOC@BOC.NYC.=
+GOV
+=C2=A0=C2=A0=C2=A0 (1).pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/Nov.16.2021.-.WMCKENZIE%40NYCOURTS.GOV.---=
+.SEC.---.BOC%40BOC.NYC.GOV%20(1).pdf>
+
+=C2=A0 * README.md
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/README.md>
+
+=C2=A0 * __2021.12.01.NOTICE.FAX.103W55thSTREET(DELIVERED FAX).pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/__2021.12.01.NOTICE.FAX.103W55thSTREET(DEL=
+IVERED%20FAX).pdf>
+
+=C2=A0 * assocSemAnnRpt - MAY 2021.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/assocSemAnnRpt%20-%20MAY%202021.pdf>
+
+=C2=A0 * default.2022-05-27---TCRReport.16537-714-487-492.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/default.2022-05-27---TCRReport.16537-714-4=
+87-492.pdf>
+
+=C2=A0 * document index.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/document%20index.pdf>
+
+=C2=A0 * firm_43036.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/firm_43036.pdf>
+
+=C2=A0 * merger (FORM N-8F) 431K CONFIRMATION.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/merger%20(FORM%20N-8F)%20431K%20CONFIRMATI=
+ON.pdf>
+
+=C2=A0 * merger 431K CONFIRMS [ USC 18.215, 18.2].pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/merger%20431K%20CONFIRMS%20%5B%20USC%2018.=
+215%2C%2018.2%5D.pdf>
+
+=C2=A0 * nsmail-15-1.eml
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-15-1.eml>
+
+=C2=A0 * nsmail-16-1.eml
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-16-1.eml>
+
+=C2=A0 * nsmail-17-1.eml
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-17-1.eml>
+
+=C2=A0 * nsmail-18-1.eml
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-18-1.eml>
+
+=C2=A0 * nsmail-19-1.eml
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-19-1.eml>
+
+=C2=A0 * nsmail-20-1.eml
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-20-1.eml>
+
+=C2=A0 * nsmail-77-1.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-77-1.pdf>
+
+=C2=A0 * nsmail-81-1.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-81-1.pdf>
+
+=C2=A0 * nsmail-82-1.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-82-1.pdf>
+
+=C2=A0 * nsmail-83-1.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-83-1.pdf>
+
+=C2=A0 * rosalia.chann.--.VIDEO.ON-DEMAND.DOMAIN.REGISTER.pdf
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/blob/main/rosalia.chann.--.VIDEO.ON-DEMAND.DOMAIN.RE=
+GISTER.pdf>
+/S/ BO DINCER=20
+=20
+  On Thu, Dec 2, 2021 at 3:56 AM, BD<bondstrt@protonmail.com> wrote:  =20
+
+What is that on the front page of the attachment?
+=C2=A0 =C2=A0 =C2=A0>=C2=A0=C2=A02021.12.01.NOTICE.FAXED?
+=C2=A0 =C2=A0 =C2=A0 111 Docket 2.1.pdf
+ ...STATE FARM TRUST DOCUMENT [06.08.2020 - Public Record].pdf
+ __2021.12.01.NOTICE.FAX.103W55thSTREET(DELIVERED FAX).pdf
+ __2021.12.01.NOTICE.FAX.103W55thSTREET(STATUS PAGE).pdf
+ __2021.12.01.NOTICE.FAX.103W55thSTREET.pdf=20
+
+=C2=A0 =C2=A0 =C2=A0
+___________________ BDINCER.
+
+Mobile:=C2=A0 646-256-3609
+Email:=C2=A0 =C2=A0=C2=A0bondstrt@protonmail.com=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0
+ =20
+ =20
+ =20
+
+------=_Part_102871_632029184.1659410966867
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<br><br><div id=3D"ymail_android_signature">/S/ BO DINCER</div> <br> <block=
+quote style=3D"margin: 0 0 20px 0;"> <div style=3D"padding: 10px 0 0 20px; =
+margin: 10px 0 0 0; border-left: 1px solid #6D00F6;"> <div style=3D"font-fa=
+mily:Roboto, sans-serif; color:#6D00F6;"> <div>----- Forwarded Message ----=
+-</div> <div><b>From:</b> "Bo Dincer" &lt;bo.dincer@yahoo.com&gt;</div> <di=
+v><b>To:</b> "BD" &lt;bondstrt@protonmail.com&gt;, "mharvey13@bloomberg.net=
+" &lt;mharvey13@bloomberg.net&gt;, "ogis@nara.gov" &lt;ogis@nara.gov&gt;, "=
+Governor Hochul" &lt;governor.hochul@exec.ny.gov&gt;, "jackson@nysenate.gov=
+" &lt;jackson@nysenate.gov&gt;, "Jackie Robinson Foundation" &lt;connect@ja=
+ckierobinson.org&gt;</div> <div style=3D"display:inline"><b>Cc:</b> "lzucke=
+r@mskyline.com" &lt;lzucker@mskyline.com&gt;, "legal@mskyline.com" &lt;lega=
+l@mskyline.com&gt;, "slaskowitz@ingramllp.com" &lt;slaskowitz@ingramllp.com=
+&gt;, "super@sullivanmews.com" &lt;super@sullivanmews.com&gt;, "David Moore=
+" &lt;david.moore.ct95@statefarm.com&gt;, "Traveler Resolutions" &lt;travel=
+erresolutions@expediagroup.com&gt;, "Ir-operations-team" &lt;ir-operations-=
+team@tudor.com&gt;, "irs@service.govdelivery.com" &lt;irs@service.govdelive=
+ry.com&gt;, "ir@expedia.com" &lt;ir@expedia.com&gt;</div> <div><b>Sent:</b>=
+ Mon, Aug 1, 2022 at 10:01 PM</div> <div><b>Subject:</b> Re: 2021.12.01.NOT=
+ICE.FAX /// HSI 55TH AUG 29, 2012.</div> </div>  <h2 style=3D"margin-top: 2=
+4px; margin-bottom: 16px; line-height: 1.25; padding-bottom: 0.3em; border-=
+bottom: 1px solid var(--border); color: rgb(251, 251, 252); font-family: in=
+ter;">SAMSUNG GALAXY 10 MAC ADDRESS</h2><br style=3D"color: rgb(251, 251, 2=
+52); font-family: inter;"><span style=3D"color: rgb(251, 251, 252); font-fa=
+mily: inter;">![image](</span><a href=3D"https://user-images.githubusercont=
+ent.com/110014688/180962145-4afca31c-94c2-42ce-9f4b-d767d593558e.png" rel=
+=3D"nofollow" style=3D"text-decoration-line: none; -webkit-tap-highlight-co=
+lor: var(--link-highlight); word-break: break-word; font-family: inter;">ht=
+tps://user-images.githubusercontent.com/110014688/180962145-4afca31c-94c2-4=
+2ce-9f4b-d767d593558e.png</a><span style=3D"color: rgb(251, 251, 252); font=
+-family: inter;">)</span><br style=3D"color: rgb(251, 251, 252); font-famil=
+y: inter;"><span style=3D"color: rgb(251, 251, 252); font-family: inter;">!=
+[image](</span><a href=3D"https://user-images.githubusercontent.com/1100146=
+88/180962450-b42f3ec5-fab7-4fd1-9984-6a286db361cd.png" rel=3D"nofollow" sty=
+le=3D"text-decoration-line: none; -webkit-tap-highlight-color: var(--link-h=
+ighlight); word-break: break-word; font-family: inter;">https://user-images=
+.githubusercontent.com/110014688/180962450-b42f3ec5-fab7-4fd1-9984-6a286db3=
+61cd.png</a><span style=3D"color: rgb(251, 251, 252); font-family: inter;">=
+)</span><br style=3D"color: rgb(251, 251, 252); font-family: inter;"><span =
+style=3D"color: rgb(251, 251, 252); font-family: inter;">[SAMSUNG NOT PRE-C=
+LEARED AT ANY TIME PRIOR TO JULY 10TH 2022 FOR" casual wire taps without co=
+nsent " ](</span><a href=3D"https://github.com/153974-HSI-OXLEY-BANKS-40ACT=
+/153974-HSI-OXLEY-BANKS-40ACT/files/9188080/Yahoo.Mail.Document_.Re_.This.e=
+mail.also.is.not.approved.for.casual.taps.PDF" style=3D"text-decoration-lin=
+e: none; -webkit-tap-highlight-color: var(--link-highlight); word-break: br=
+eak-word; font-family: inter;">https://github.com/153974-HSI-OXLEY-BANKS-40=
+ACT/153974-HSI-OXLEY-BANKS-40ACT/files/9188080/Yahoo.Mail.Document_.Re_.Thi=
+s.email.also.is.not.approved.for.casual.taps.PDF</a><span style=3D"color: r=
+gb(251, 251, 252); font-family: inter;">)</span><p style=3D"margin-top: 0px=
+; margin-bottom: 16px; color: rgb(251, 251, 252); font-family: inter;">NYSC=
+EF COURT DOCKETS</p><p style=3D"margin-top: 0px; margin-bottom: 16px; color=
+: rgb(251, 251, 252); font-family: inter;">&nbsp;260&nbsp; EXHIBIT(S)&nbsp;=
+&nbsp;- 1 &nbsp;(Motion #001)</p><p style=3D"margin-top: 0px; margin-bottom=
+: 16px; color: rgb(251, 251, 252); font-family: inter;">6.24.2020 email -&n=
+bsp;<a href=3D"mailto:ASHLEY.HUMPHRIES@WILSONELSER.COM" style=3D"text-decor=
+ation-line: none; -webkit-tap-highlight-color: var(--link-highlight); word-=
+break: break-word;">ASHLEY.HUMPHRIES@WILSONELSER.COM</a></p><ul style=3D"ma=
+rgin-top: 0px; margin-bottom: 16px; padding-left: 1.5em; color: rgb(251, 25=
+1, 252); font-family: inter;"><li><p style=3D"margin-top: 16px; margin-bott=
+om: 16px;">DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION=
+ OF PRIVACY AND CIVIL RIGHTS</p></li><li style=3D"margin-top: 0.25em;"><p s=
+tyle=3D"margin-top: 16px; margin-bottom: 16px;">AS A REAL ESTATE ATTORNEY I=
+N NEW YORK CIVIL PART 60, UNDER THE HON. TINGLING.</p><p style=3D"margin-to=
+p: 16px; margin-bottom: 16px;"><a href=3D"https://iapps.courts.state.ny.us/=
+nyscef/ViewDocument?docIndex=3DANDSuLFWlbjttGxgjUXGAw=3D=3D" rel=3D"nofollo=
+w" style=3D"text-decoration-line: none; -webkit-tap-highlight-color: var(--=
+link-highlight); word-break: break-word;">https://iapps.courts.state.ny.us/=
+nyscef/ViewDocument?docIndex=3DANDSuLFWlbjttGxgjUXGAw=3D=3D</a></p></li></u=
+l><p style=3D"margin-top: 0px; margin-bottom: 16px; color: rgb(251, 251, 25=
+2); font-family: inter;">&nbsp;261&nbsp; EXHIBIT(S)&nbsp;&nbsp;- 2 &nbsp;(M=
+otion #001)</p><p style=3D"margin-top: 0px; margin-bottom: 16px; color: rgb=
+(251, 251, 252); font-family: inter;">6.25.2020&nbsp;<a href=3D"mailto:emai=
+l-ASHLEY.HUMPHRIES@WILSONELSER.COM" style=3D"text-decoration-line: none; -w=
+ebkit-tap-highlight-color: var(--link-highlight); word-break: break-word;">=
+email-ASHLEY.HUMPHRIES@WILSONELSER.COM</a>&nbsp;- DISTRIBUTE THOSE VIDEO.MO=
+V FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS&nbsp;<a=
+ href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dph=
+76T77EGjUtofiKDKCOoA=3D=3D" rel=3D"nofollow" style=3D"text-decoration-line:=
+ none; -webkit-tap-highlight-color: var(--link-highlight); word-break: brea=
+k-word;" id=3D"yMail_cursorElementTracker_1659405688964">https://iapps.cour=
+ts.state.ny.us/nyscef/ViewDocument?docIndex=3Dph76T77EGjUtofiKDKCOoA=3D=3D<=
+/a></p><br><div id=3D"ymail_android_signature">/S/ BO DINCER</div> <br> <bl=
+ockquote style=3D"margin: 0 0 20px 0;"> <div style=3D"font-family:Roboto, s=
+ans-serif; color:#6D00F6;"> <div>On Fri, Jul 29, 2022 at 5:26 PM, Bo Dincer=
+</div><div>&lt;bo.dincer@yahoo.com&gt; wrote:</div> </div> <div style=3D"pa=
+dding: 10px 0 0 20px; margin: 10px 0 0 0; border-left: 1px solid #6D00F6;">=
+ <div id=3D"yiv6897056850"><div><div dir=3D"ltr" id=3D"yiv6897056850yMail_c=
+ursorElementTracker_1657328593990" style=3D"">JUST HIT THAT LINK, AND UNDER=
+STAND.<br clear=3D"none" style=3D""></div><div dir=3D"ltr" id=3D"yiv6897056=
+850yMail_cursorElementTracker_1657328596279" style=3D"">-- that was solved =
+inn 48-hours.&nbsp;</div><div dir=3D"ltr" id=3D"yiv6897056850yMail_cursorEl=
+ementTracker_1657328647960" style=3D"">With the correct devices,</div><div =
+dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr"=
+ style=3D"">- THESE PEOPLE HARASSED ME DAILY, ARE NOT IN PRISON<br clear=3D=
+"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" styl=
+e=3D""></div><div dir=3D"ltr" style=3D"">- WILL DENY AND AVOID EVERYONE AND=
+ ANYTHING.<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><=
+br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">*&nbsp;&nbsp=
+;&nbsp; HEY, THEY GO ABOUT THEIR BUSINESS LIKE THEY DON'T HAVE ANYTHING TO<=
+br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">SETTLE...*<b=
+r clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"=
+none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D""><a rel=3D"nofollow noopener norefer=
+rer" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELS=
+ER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/commit/=
+f6079e6fdb03b5fd0fd579f2ee926f9f2ffc9bc5#commitcomment-77027738 " style=3D"=
+">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-ST=
+ATEFARM-SULLIVAN-ZUCKER/commit/f6079e6fdb03b5fd0fd579f2ee926f9f2ffc9bc5#com=
+mitcomment-77027738</a><br clear=3D"none" style=3D""></div><div dir=3D"ltr"=
+ style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""=
+><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">## FAXED T=
+HE PRIOR MSG TO NY SUPREME COURTS, CIVIL BRANCH.<br clear=3D"none" style=3D=
+""></div><div dir=3D"ltr" style=3D"">[ 50074 EAST ++ ]<br clear=3D"none" st=
+yle=3D""></div><div dir=3D"ltr" style=3D""><a rel=3D"nofollow noopener nore=
+ferrer" shape=3D"rect" target=3D"_blank" href=3D"https://faxzero.com/status=
+/31316917/6b34c3ad9620003256df358c638765fc2ae387cc " style=3D"">https://fax=
+zero.com/status/31316917/6b34c3ad9620003256df358c638765fc2ae387cc</a><br cl=
+ear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none=
+" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp;&nbsp; &nbsp;*** &nbsp=
+;&nbsp;&nbsp; ***&nbsp;&nbsp;&nbsp; ***<br clear=3D"none" style=3D""></div>=
+<div dir=3D"ltr" style=3D"">Your fax (ID: #31316917) to VARIOUS at 212-401-=
+9146 has been delivered<br clear=3D"none" style=3D""></div><div dir=3D"ltr"=
+ style=3D"">successfully at 12:12 AM EST on June 26th, 2022.<br clear=3D"no=
+ne" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div=
+><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=
+=3D"ltr" style=3D""><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" =
+target=3D"_blank" href=3D"https://faxzero.com/status/30246810/5331540dcefa7=
+0818b47fb597bf6a69acfd106be " style=3D"">https://faxzero.com/status/3024681=
+0/5331540dcefa70818b47fb597bf6a69acfd106be</a><br clear=3D"none" style=3D""=
+></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div=
+ dir=3D"ltr" style=3D"">&nbsp;&nbsp; &nbsp;*** &nbsp;&nbsp;&nbsp; ***&nbsp;=
+&nbsp;&nbsp; ***<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=
+=3D"">Your fax (ID: #30246810) to DONALD ZUCKER at 2125869867 has been<br c=
+lear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">delivered succes=
+sfully at 9:50 PM EST on December 1st, 2021.<br clear=3D"none" style=3D""><=
+/div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div d=
+ir=3D"ltr" style=3D""><a rel=3D"nofollow noopener noreferrer" shape=3D"rect=
+" target=3D"_blank" href=3D"https://faxzero.com/status/30666994/5790f170186=
+11119e07814be9e36110d164afaa6 " style=3D"">https://faxzero.com/status/30666=
+994/5790f17018611119e07814be9e36110d164afaa6</a><br clear=3D"none" style=3D=
+""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><d=
+iv dir=3D"ltr" style=3D"">Your fax (ID: #30666994) to IRS CRIMINAL INVESTIG=
+ATIONS at 2674661115<br clear=3D"none" style=3D""></div><div dir=3D"ltr" st=
+yle=3D"">has been delivered successfully at 11:44 PM EST on February 20th, =
+2022.<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br cl=
+ear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><a rel=3D"nofollo=
+w noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://fax=
+zero.com/status/30852826/92a1a0570d178d0311eb3764f01842d3ceb65513 " style=
+=3D"">https://faxzero.com/status/30852826/92a1a0570d178d0311eb3764f01842d3c=
+eb65513</a><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">=
+<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">Your fax (I=
+D: #30852826) to JOE MONK at 8164714832 has been delivered<br clear=3D"none=
+" style=3D""></div><div dir=3D"ltr" style=3D"">successfully at 4:42 AM EST =
+on March 26th, 2022.<br clear=3D"none" style=3D""></div><div dir=3D"ltr" st=
+yle=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">On=
+ 6/26/2022 12:14 PM, B D2022 wrote:<br clear=3D"none" style=3D""></div><div=
+ dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr=
+" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"=
+">WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER<br clear=3D"none" style=3D""></div=
+><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" sh=
+ape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STAT=
+EFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER" style=3D"">ht=
+tps://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEF=
+ARM-SULLIVAN-ZUCKER</a>&gt;/<br clear=3D"none" style=3D""></div><div dir=3D=
+"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=
+=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">You=
+=E2=80=99ve activated the/file finder/. Start typing to filter the file lis=
+t.<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">Use=E2=86=
+=91and=E2=86=93to navigate,enterto view files,escto exit.<br clear=3D"none"=
+ style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""=
+></div><div dir=3D"ltr" style=3D"">&nbsp; * 111.xps<br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener nor=
+eferrer" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON=
+-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blo=
+b/main/111.xps" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIV=
+AN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/111.xps</a>&gt;<=
+br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D=
+"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * 2020_05_27 - I=
+NDEX and PAPERS.pdf<br clear=3D"none" style=3D""></div><div dir=3D"ltr" sty=
+le=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
+=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCK=
+ER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/2020_05_27%20-%20INDEX%=
+20and%20PAPERS.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SU=
+LLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/2020_05_27%2=
+0-%20INDEX%20and%20PAPERS.pdf</a>&gt;<br clear=3D"none" style=3D""></div><d=
+iv dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"l=
+tr" style=3D"">&nbsp; * 2022.03.07.CRD.Mutual.Fund.SFBDX.SFITX.STFBX.STFGX.=
+LGL.pdf<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;=
+<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" hr=
+ef=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSE=
+R-STATEFARM-SULLIVAN-ZUCKER/blob/main/2022.03.07.CRD.Mutual.Fund.SFBDX.SFIT=
+X.STFBX.STFGX.LGL.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEFARM=
+-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/2022.03.0=
+7.CRD.Mutual.Fund.SFBDX.SFITX.STFBX.STFGX.LGL.pdf</a>&gt;<br clear=3D"none"=
+ style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""=
+></div><div dir=3D"ltr" style=3D"">&nbsp; * DOCKET 00048 - COMPLETE.htm<br =
+clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"n=
+ofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https=
+://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM=
+-SULLIVAN-ZUCKER/blob/main/DOCKET%2000048%20-%20COMPLETE.htm" style=3D"">ht=
+tps://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEF=
+ARM-SULLIVAN-ZUCKER/blob/main/DOCKET%2000048%20-%20COMPLETE.htm</a>&gt;<br =
+clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"no=
+ne" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * DOCKET 00048 - un=
+consented videotapes - ducker like a zucker<br clear=3D"none" style=3D""></=
+div><div dir=3D"ltr" style=3D"">&nbsp;&nbsp;&nbsp; BRANCHES TRACKED.html<br=
+ clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"=
+nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"http=
+s://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFAR=
+M-SULLIVAN-ZUCKER/blob/main/DOCKET%2000048%20-%20unconsented%20videotapes%2=
+0-%20ducker%20like%20a%20zucker%20BRANCHES%20TRACKED.html" style=3D"">https=
+://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM=
+-SULLIVAN-ZUCKER/blob/main/DOCKET%2000048%20-%20unconsented%20videotapes%20=
+-%20ducker%20like%20a%20zucker%20BRANCHES%20TRACKED.html</a>&gt;<br clear=
+=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" s=
+tyle=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * DOCKET 00048 - unconse=
+nted videotapes - ducker like a zucker.html<br clear=3D"none" style=3D""></=
+div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer"=
+ shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-S=
+TATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/D=
+OCKET%2000048%20-%20unconsented%20videotapes%20-%20ducker%20like%20a%20zuck=
+er.html" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCK=
+ER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/DOCKET%2000048%20-%20un=
+consented%20videotapes%20-%20ducker%20like%20a%20zucker.html</a>&gt;<br cle=
+ar=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none"=
+ style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; *<br clear=3D"none" st=
+yle=3D""></div><div dir=3D"ltr" style=3D"">EX69.---.docket.385.--.2020-08-1=
+0.--.EMAIL.TO.LAURIE.ZUCKER.AT.1236AM.pdf<br clear=3D"none" style=3D""></di=
+v><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" s=
+hape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/EX6=
+9.---.docket.385.--.2020-08-10.--.EMAIL.TO.LAURIE.ZUCKER.AT.1236AM.pdf" sty=
+le=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-EL=
+SER-STATEFARM-SULLIVAN-ZUCKER/blob/main/EX69.---.docket.385.--.2020-08-10.-=
+-.EMAIL.TO.LAURIE.ZUCKER.AT.1236AM.pdf</a>&gt;<br clear=3D"none" style=3D""=
+></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div=
+ dir=3D"ltr" style=3D"">&nbsp; *<br clear=3D"none" style=3D""></div><div di=
+r=3D"ltr" style=3D"">EX72.---.2020.08.10.---.NOTICE.FROM.COUNSEL.FOR.ZUCKER=
+S.TO.NOT.CONTACT.ANY.AUTHORITY.ENCLOSURE.pdf<br clear=3D"none" style=3D""><=
+/div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer=
+" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-=
+STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/=
+EX72.---.2020.08.10.---.NOTICE.FROM.COUNSEL.FOR.ZUCKERS.TO.NOT.CONTACT.ANY.=
+AUTHORITY.ENCLOSURE.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEFA=
+RM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/EX72.--=
+-.2020.08.10.---.NOTICE.FROM.COUNSEL.FOR.ZUCKERS.TO.NOT.CONTACT.ANY.AUTHORI=
+TY.ENCLOSURE.pdf</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr=
+" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"=
+">&nbsp; * EXHIBIT_S__383.-.LOAN.50074.--.ME133300053v.2.pdf<br clear=3D"no=
+ne" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noo=
+pener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://github.c=
+om/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER/blob/main/EXHIBIT_S__383.-.LOAN.50074.--.ME133300053v.2.pdf" style=3D=
+"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-S=
+TATEFARM-SULLIVAN-ZUCKER/blob/main/EXHIBIT_S__383.-.LOAN.50074.--.ME1333000=
+53v.2.pdf</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=
+=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp=
+; * EnrollmentCertificate.pdf<br clear=3D"none" style=3D""></div><div dir=
+=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"re=
+ct" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SUL=
+LIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/EnrollmentCer=
+tificate.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN=
+-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/EnrollmentCertific=
+ate.pdf</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=
+=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp=
+; * IMPUTATION__1.3__ABA.GUIDELINES.ON.CONFLICTS.OF.INTERESTS.pdf<br clear=
+=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofoll=
+ow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://gi=
+thub.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER/blob/main/IMPUTATION__1.3__ABA.GUIDELINES.ON.CONFLICTS.OF.INTER=
+ESTS.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUC=
+KER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/IMPUTATION__1.3__ABA.G=
+UIDELINES.ON.CONFLICTS.OF.INTERESTS.pdf</a>&gt;<br clear=3D"none" style=3D"=
+"></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><di=
+v dir=3D"ltr" style=3D"">&nbsp; * Memo Style1.5.pdf<br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener nor=
+eferrer" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON=
+-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blo=
+b/main/Memo%20Style1.5.pdf" style=3D"">https://github.com/WILSON-ELSER-STAT=
+EFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/Memo=
+%20Style1.5.pdf</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr"=
+ style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""=
+>&nbsp; * Memo Style1.7.pdf<br clear=3D"none" style=3D""></div><div dir=3D"=
+ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" =
+target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVA=
+N-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style1.7.p=
+df" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WI=
+LSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style1.7.pdf</a>&gt;<=
+br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D=
+"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * Memo Style1.pd=
+f<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=
+=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"=
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STAT=
+EFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style1.pdf" style=3D"">https://githu=
+b.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVA=
+N-ZUCKER/blob/main/Memo%20Style1.pdf</a>&gt;<br clear=3D"none" style=3D""><=
+/div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div d=
+ir=3D"ltr" style=3D"">&nbsp; * Memo Style4.pdf<br clear=3D"none" style=3D""=
+></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferr=
+er" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSE=
+R-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/mai=
+n/Memo%20Style4.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-S=
+ULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Styl=
+e4.pdf</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D=
+""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; *=
+ Memo Style5.pdf<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=
+=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"=
+_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/W=
+ILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style5.pdf" style=3D=
+"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-S=
+TATEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style5.pdf</a>&gt;<br clear=3D"no=
+ne" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * Memo Style6.pdf<br clear=
+=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofoll=
+ow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://gi=
+thub.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER/blob/main/Memo%20Style6.pdf" style=3D"">https://github.com/WILS=
+ON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/b=
+lob/main/Memo%20Style6.pdf</a>&gt;<br clear=3D"none" style=3D""></div><div =
+dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr"=
+ style=3D"">&nbsp; * Memo Style7.pdf<br clear=3D"none" style=3D""></div><di=
+v dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=
+=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFA=
+RM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20=
+Style7.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style7.pdf</a=
+>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br cl=
+ear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * Memo Sty=
+le9.pdf<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;=
+<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" hr=
+ef=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSE=
+R-STATEFARM-SULLIVAN-ZUCKER/blob/main/Memo%20Style9.pdf" style=3D"">https:/=
+/github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-S=
+ULLIVAN-ZUCKER/blob/main/Memo%20Style9.pdf</a>&gt;<br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div=
+><div dir=3D"ltr" style=3D"">&nbsp; * NEW YORK PRIVACY LAWS OF MEMORANDUM S=
+UPPLEMENTS - ANNEXED.jpg<br clear=3D"none" style=3D""></div><div dir=3D"ltr=
+" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" tar=
+get=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/NEW%20YORK%20PRIVACY=
+%20LAWS%20OF%20MEMORANDUM%20SUPPLEMENTS%20-%20ANNEXED.jpg" style=3D"">https=
+://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM=
+-SULLIVAN-ZUCKER/blob/main/NEW%20YORK%20PRIVACY%20LAWS%20OF%20MEMORANDUM%20=
+SUPPLEMENTS%20-%20ANNEXED.jpg</a>&gt;<br clear=3D"none" style=3D""></div><d=
+iv dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"l=
+tr" style=3D"">&nbsp; * NYC.DEPT.OF.FINANCE.-.PUBLIC.RECORD (1).pdf<br clea=
+r=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofol=
+low noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://g=
+ithub.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SUL=
+LIVAN-ZUCKER/blob/main/NYC.DEPT.OF.FINANCE.-.PUBLIC.RECORD%20" style=3D"">h=
+ttps://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATE=
+FARM-SULLIVAN-ZUCKER/blob/main/NYC.DEPT.OF.FINANCE.-.PUBLIC.RECORD%20</a>(1=
+).pdf&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><b=
+r clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; *&nbsp=
+;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mailto:N=
+ov.16.2021.-.WMCKENZIE@NYCOURTS.GOV.---.SEC.---.BOC" target=3D"_blank" href=
+=3D"mailto:Nov.16.2021.-.WMCKENZIE@NYCOURTS.GOV.---.SEC.---.BOC" style=3D""=
+>Nov.16.2021.-.WMCKENZIE@NYCOURTS.GOV.---.SEC.---.BOC</a>@BOC.NYC.GOV<br cl=
+ear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp;&nbsp;&nbsp=
+; (1).pdf<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&l=
+t;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" =
+href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-EL=
+SER-STATEFARM-SULLIVAN-ZUCKER/blob/main/Nov.16.2021.-.WMCKENZIE%40NYCOURTS.=
+GOV.---.SEC.---.BOC%40BOC.NYC.GOV%20" style=3D"">https://github.com/WILSON-=
+ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob=
+/main/Nov.16.2021.-.WMCKENZIE%40NYCOURTS.GOV.---.SEC.---.BOC%40BOC.NYC.GOV%=
+20</a>(1).pdf&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=
+=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp=
+; * README.md<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"=
+">&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
+nk" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSO=
+N-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/README.md" style=3D"">https://g=
+ithub.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SUL=
+LIVAN-ZUCKER/blob/main/README.md</a>&gt;<br clear=3D"none" style=3D""></div=
+><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=
+=3D"ltr" style=3D"">&nbsp; * __2021.12.01.NOTICE.FAX.103W55thSTREET(DELIVER=
+ED FAX).pdf<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">=
+&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank=
+" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-=
+ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/__2021.12.01.NOTICE.FAX.103W55thS=
+TREET" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER=
+/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/__2021.12.01.NOTICE.FAX.1=
+03W55thSTREET</a>(DELIVERED%20FAX).pdf&gt;<br clear=3D"none" style=3D""></d=
+iv><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=
+=3D"ltr" style=3D"">&nbsp; * assocSemAnnRpt - MAY 2021.pdf<br clear=3D"none=
+" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noope=
+ner noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://github.com=
+/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUC=
+KER/blob/main/assocSemAnnRpt%20-%20MAY%202021.pdf" style=3D"">https://githu=
+b.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVA=
+N-ZUCKER/blob/main/assocSemAnnRpt%20-%20MAY%202021.pdf</a>&gt;<br clear=3D"=
+none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * default.2022-05-27---TCRRe=
+port.16537-714-487-492.pdf<br clear=3D"none" style=3D""></div><div dir=3D"l=
+tr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" t=
+arget=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN=
+-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/default.2022-05-27=
+---TCRReport.16537-714-487-492.pdf" style=3D"">https://github.com/WILSON-EL=
+SER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/m=
+ain/default.2022-05-27---TCRReport.16537-714-487-492.pdf</a>&gt;<br clear=
+=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" s=
+tyle=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * document index.pdf<br =
+clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"n=
+ofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https=
+://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM=
+-SULLIVAN-ZUCKER/blob/main/document%20index.pdf" style=3D"">https://github.=
+com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-=
+ZUCKER/blob/main/document%20index.pdf</a>&gt;<br clear=3D"none" style=3D"">=
+</div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div =
+dir=3D"ltr" style=3D"">&nbsp; * firm_43036.pdf<br clear=3D"none" style=3D""=
+></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferr=
+er" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSE=
+R-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/mai=
+n/firm_43036.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/firm_43036.pdf=
+</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br=
+ clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * merge=
+r (FORM N-8F) 431K CONFIRMATION.pdf<br clear=3D"none" style=3D""></div><div=
+ dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=
+=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFA=
+RM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/merger%=
+20" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WI=
+LSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/merger%20</a>(FORM%20N-8F)%2=
+0431K%20CONFIRMATION.pdf&gt;<br clear=3D"none" style=3D""></div><div dir=3D=
+"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=
+=3D"">&nbsp; * merger 431K CONFIRMS [ USC 18.215, 18.2].pdf<br clear=3D"non=
+e" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noop=
+ener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://github.co=
+m/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZU=
+CKER/blob/main/merger%20431K%20CONFIRMS%20%5B%20USC%2018.215%2C%2018.2%5D.p=
+df" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WI=
+LSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/merger%20431K%20CONFIRMS%20%=
+5B%20USC%2018.215%2C%2018.2%5D.pdf</a>&gt;<br clear=3D"none" style=3D""></d=
+iv><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=
+=3D"ltr" style=3D"">&nbsp; * nsmail-15-1.eml<br clear=3D"none" style=3D""><=
+/div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer=
+" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-=
+STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/=
+nsmail-15-1.eml" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLI=
+VAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-15-1.eml=
+</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br=
+ clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * nsmai=
+l-16-1.eml<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&=
+lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank"=
+ href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-E=
+LSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-16-1.eml" style=3D"">https:=
+//github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-=
+SULLIVAN-ZUCKER/blob/main/nsmail-16-1.eml</a>&gt;<br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div=
+><div dir=3D"ltr" style=3D"">&nbsp; * nsmail-17-1.eml<br clear=3D"none" sty=
+le=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener n=
+oreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILS=
+ON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/b=
+lob/main/nsmail-17-1.eml" style=3D"">https://github.com/WILSON-ELSER-STATEF=
+ARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail=
+-17-1.eml</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=
+=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp=
+; * nsmail-18-1.eml<br clear=3D"none" style=3D""></div><div dir=3D"ltr" sty=
+le=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
+=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCK=
+ER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-18-1.eml" style=
+=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSE=
+R-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-18-1.eml</a>&gt;<br clear=3D"n=
+one" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * nsmail-19-1.eml<br clear=
+=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofoll=
+ow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://gi=
+thub.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER/blob/main/nsmail-19-1.eml" style=3D"">https://github.com/WILSON=
+-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blo=
+b/main/nsmail-19-1.eml</a>&gt;<br clear=3D"none" style=3D""></div><div dir=
+=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" st=
+yle=3D"">&nbsp; * nsmail-20-1.eml<br clear=3D"none" style=3D""></div><div d=
+ir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"=
+rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-S=
+ULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-20-1=
+.eml" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/=
+WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-20-1.eml</a>&gt;<br=
+ clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"n=
+one" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * nsmail-77-1.pdf<=
+br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=
+=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"=
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STAT=
+EFARM-SULLIVAN-ZUCKER/blob/main/nsmail-77-1.pdf" style=3D"">https://github.=
+com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-=
+ZUCKER/blob/main/nsmail-77-1.pdf</a>&gt;<br clear=3D"none" style=3D""></div=
+><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div><div dir=
+=3D"ltr" style=3D"">&nbsp; * nsmail-81-1.pdf<br clear=3D"none" style=3D""><=
+/div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer=
+" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-=
+STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/=
+nsmail-81-1.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEFARM-SULLI=
+VAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-81-1.pdf=
+</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D""><br=
+ clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp; * nsmai=
+l-82-1.pdf<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&=
+lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank"=
+ href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-E=
+LSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail-82-1.pdf" style=3D"">https:=
+//github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-=
+SULLIVAN-ZUCKER/blob/main/nsmail-82-1.pdf</a>&gt;<br clear=3D"none" style=
+=3D""></div><div dir=3D"ltr" style=3D""><br clear=3D"none" style=3D""></div=
+><div dir=3D"ltr" style=3D"">&nbsp; * nsmail-83-1.pdf<br clear=3D"none" sty=
+le=3D""></div><div dir=3D"ltr" style=3D"">&lt;<a rel=3D"nofollow noopener n=
+oreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILS=
+ON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/b=
+lob/main/nsmail-83-1.pdf" style=3D"">https://github.com/WILSON-ELSER-STATEF=
+ARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/nsmail=
+-83-1.pdf</a>&gt;<br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=
+=3D""><br clear=3D"none" style=3D""></div><div dir=3D"ltr" style=3D"">&nbsp=
+; * rosalia.chann.--.VIDEO.ON-DEMAND.DOMAIN.REGISTER.pdf<br clear=3D"none" =
+style=3D""></div><div dir=3D"ltr" id=3D"yiv6897056850yMail_cursorElementTra=
+cker_1657328554137" style=3D"">&lt;<a rel=3D"nofollow noopener noreferrer" =
+shape=3D"rect" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-ST=
+ATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/ro=
+salia.chann.--.VIDEO.ON-DEMAND.DOMAIN.REGISTER.pdf" style=3D"">https://gith=
+ub.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIV=
+AN-ZUCKER/blob/main/rosalia.chann.--.VIDEO.ON-DEMAND.DOMAIN.REGISTER.pdf</a=
+>&gt;</div><br clear=3D"none"><div id=3D"yiv6897056850ymail_android_signatu=
+re">/S/ BO DINCER</div> <br clear=3D"none"> <div id=3D"yiv6897056850yqt5220=
+2" class=3D"yiv6897056850yqt9296970166 yQTDBase"><blockquote style=3D"margi=
+n:0 0 20px 0;"> <div style=3D"font-family:Roboto, sans-serif;color:#6D00F6;=
+"> <div>On Thu, Dec 2, 2021 at 3:56 AM, BD</div><div>&lt;bondstrt@protonmai=
+l.com&gt; wrote:</div> </div> <div style=3D"padding:10px 0 0 20px;margin:10=
+px 0 0 0;border-left:1px solid #6D00F6;"> <div id=3D"yiv6897056850"><p></p>=
+<div><b><span style=3D"font-family:times new roman, sans-serif;" class=3D"y=
+iv6897056850font"><span style=3D"font-size:10px;" class=3D"yiv6897056850siz=
+e">What is that on the front page of the attachment?<br clear=3D"none"></sp=
+an></span></b></div><div><span style=3D"font-family:times new roman, sans-s=
+erif;" class=3D"yiv6897056850font"><span style=3D"font-size:10px;" class=3D=
+"yiv6897056850size">&nbsp; &nbsp; &nbsp;&gt;&nbsp;&nbsp;<b>2021.12.01.NOTIC=
+E.FAXED?</b><br clear=3D"none"></span></span></div><div><span style=3D"font=
+-family:times new roman, sans-serif;" class=3D"yiv6897056850font"><span sty=
+le=3D"font-size:10px;" class=3D"yiv6897056850size">&nbsp; &nbsp; &nbsp;</sp=
+an></span></div><div><span style=3D"font-family:times new roman, sans-serif=
+;" class=3D"yiv6897056850font"><span style=3D"font-size:10px;" class=3D"yiv=
+6897056850size"> 111 Docket 2.1.pdf<br clear=3D"none"></span></span></div><=
+div><span style=3D"font-family:times new roman, sans-serif;" class=3D"yiv68=
+97056850font"><span style=3D"font-size:10px;" class=3D"yiv6897056850size"> =
+..STATE FARM TRUST DOCUMENT [06.08.2020 - Public Record].pdf<br clear=3D"n=
+one"></span></span></div><div><span style=3D"font-family:times new roman, s=
+ans-serif;" class=3D"yiv6897056850font"><span style=3D"font-size:10px;" cla=
+ss=3D"yiv6897056850size"> __2021.12.01.NOTICE.FAX.103W55thSTREET(DELIVERED =
+FAX).pdf<br clear=3D"none"></span></span></div><div><span style=3D"font-fam=
+ily:times new roman, sans-serif;" class=3D"yiv6897056850font"><span style=
+=3D"font-size:10px;" class=3D"yiv6897056850size"> __2021.12.01.NOTICE.FAX.1=
+03W55thSTREET(STATUS PAGE).pdf<br clear=3D"none"></span></span></div><div><=
+span style=3D"font-family:times new roman, sans-serif;" class=3D"yiv6897056=
+850font"><span style=3D"font-size:10px;" class=3D"yiv6897056850size"> __202=
+1.12.01.NOTICE.FAX.103W55thSTREET.pdf <br clear=3D"none"></span></span></di=
+v><p><span style=3D"font-family:times new roman, sans-serif;" class=3D"yiv6=
+897056850font"><span style=3D"font-size:10px;" class=3D"yiv6897056850size">=
+&nbsp; &nbsp; &nbsp;</span></span></p><div style=3D"line-height:normal;colo=
+r:rgb(38, 42, 51);font-family:-apple-system, BlinkMacSystemFont, Roboto, Ox=
+ygen-Sans, Ubuntu, Cantarell, sans-serif;font-size:14px;font-style:normal;f=
+ont-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transfo=
+rm:none;white-space:normal;widows:2;word-spacing:0px;background-color:rgb(2=
+55, 255, 255);text-decoration-style:initial;text-decoration-color:initial;"=
+><b style=3D"font-weight:700;line-height:normal;"><span style=3D"line-heigh=
+t:normal;"><span style=3D"line-height:normal;"><span style=3D"font-family:n=
+ew sans-serif;" class=3D"yiv6897056850font"><span style=3D"line-height:norm=
+al;"><span style=3D"line-height:normal;"><span style=3D"font-size:10px;" cl=
+ass=3D"yiv6897056850size">___________________ BDINCER.</span></span></span>=
+</span></span></span></b><span style=3D"line-height:normal;"><span style=3D=
+"line-height:normal;"><span style=3D"font-family:new sans-serif;" class=3D"=
+yiv6897056850font"><span style=3D"line-height:normal;"><span style=3D"line-=
+height:normal;"><span style=3D"font-size:10px;" class=3D"yiv6897056850size"=
+><br clear=3D"none" style=3D"line-height:normal;"><br clear=3D"none" style=
+=3D"line-height:normal;">Mobile:&nbsp; 646-256-3609<br clear=3D"none" style=
+=3D"line-height:normal;">Email:&nbsp; &nbsp;<span style=3D"line-height:norm=
+al;">&nbsp;</span><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" st=
+yle=3D"cursor:pointer;text-decoration:underline;line-height:normal;" ymailt=
+o=3D"mailto:bondstrt@protonmail.com" target=3D"_blank" href=3D"mailto:bonds=
+trt@protonmail.com">bondstrt@protonmail.com</a></span></span></span></span>=
+</span></span></div><div style=3D"line-height:normal;color:rgb(38, 42, 51);=
+font-family:-apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu,=
+ Cantarell, sans-serif;font-size:14px;font-style:normal;font-weight:400;let=
+ter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;white-spac=
+e:normal;widows:2;word-spacing:0px;background-color:rgb(255, 255, 255);text=
+-decoration-style:initial;text-decoration-color:initial;"><span style=3D"li=
+ne-height:normal;"><span style=3D"font-family:new sans-serif;" class=3D"yiv=
+6897056850font"><span style=3D"line-height:normal;"><span style=3D"font-siz=
+e:10px;" class=3D"yiv6897056850size">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</sp=
+an></span></span></span><br clear=3D"none"></div></div> </div> </blockquote=
+></div></div></div> </div> </blockquote> </div> </blockquote>
+------=_Part_102871_632029184.1659410966867--

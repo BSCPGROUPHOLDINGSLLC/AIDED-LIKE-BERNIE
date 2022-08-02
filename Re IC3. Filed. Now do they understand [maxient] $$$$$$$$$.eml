@@ -1,0 +1,1849 @@
+From - Mon Aug  1 23:37:59 2022
+X-Account-Key: account1
+X-UIDL: ABNpZi4SuHykYuiE3QiHmEm44r0
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Tue, 2 Aug 2022 01:58:52 +0000
+Return-Path: <bo.dincer@yahoo.com>
+X-Originating-Ip: [98.137.64.46]
+Received-SPF: pass (domain of yahoo.com designates 98.137.64.46 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 2 Aug 2022 01:58:53 +0000
+X-YMailAVSC: .NbfMcg3bBsLNsj1ueeqcNTL9zkEvR0MCRktCdE82OEKQsB
+ OUQsXKfY9YaS1.IuF93XnHmIShvh8vNFFkcOR3Yi0y.E6M2FUp1xiPRIhXOn
+ 5ICwmGY0eMHohXtvqxGo1b31E0U6UYulTfjXHMdZrt3KvDauj_vCDeSF4I.Z
+ pT48CKJxRx4gAoBtwKwsQC621NzDaglVZ1i8ydFm7D4xBXD7pQMois7OTz9z
+ jVh3XhLPU8ZPygj8nj4np6aYUGo333L84epu5pLoPB5AFB_yLuvQ4ONq2Q26
+ .ji0nM.vqAzp1jfoMhcS9VooPH3a8ppi8zqJva40Ti1_5vF6oRX6Y1RCHO4a
+ MvNoeF5UrEuyrjiyRDvQOQUovpWjzek3pgTZPrCTCWP1tmO.m3rjgOebBP0_
+ KBwzR91tChkFp814qi66TvcgwUT9gvRU7UxQz3BhJ3ETsBI8vao8PrLNycgj
+ 5wIAAbDiuIqETN3aGcibGz6ERMk5YOWis5tqca70l7Dd4HE1eTDNAZmNAsX8
+ lL86PaHdYS.Pf1bBA9vitNfdH3PIa7pF8BHVwVaj0QQIvr6FuZyUJf8LJO3q
+ 6bRAWG7oy0.icJpzpa4ra23b8SJWTI0Ygm.0BClCJVJz6wgLergrkFuzZ3ZC
+ _3SUPGh8PyWBIu9wGtDRho5ggEeraZlOq7fseD6XLDOvkiD2nd_FfzLpZjWN
+ zHmDp8h3ObLwhlgWRlaFkvHrKagdaOT9V0xbenRVmWpLT2Q5_szJodDxofDZ
+ NXCzbXo.t7oGTPcYA0segb8OEHzqTnfK6AegJ0VvzyR_U5V.JCsjuFO9c.f3
+ RoqXsA4doRovS9UChU0kVLaoqra.PnYyY5w9HCQlzBGJxiGC8tlqMMsuXs9P
+ t_sEavIQrQi3bahwykjmwrf6Qn6hOa8ZZ.EGIeL5rv04pCQrVfGfEkGrBwmC
+ ah7J.lHiaAVLScHOX83zO3nfqQiaOMhA.8NCHmNwa5JiqFkyUYX_YL4Ho4d9
+ UIzPht4MWyTcVgyfbZ1aa.oX80QSkqWT51k5BAbDJ.55HQpOBQ6rP3dSTnp9
+ 3BPbue1baPD9cPHT6ZqipjaNmIvCfmgMkl4BnCbl56e0iextKPuvSY.cFnmT
+ PykZoLF3Mkl8rdXLOU2tPn8OvPibE4w8YTe_RV.WvIAfJpHdxw1qH7Z3TiVW
+ 4YOvngczi.6fyPvCXwBmulYg4ZinrMoEYBF73rePvEQIOLw1_Jbu3OrCDiZ0
+ FLgz3Nbj1PTYYO079nEiERXHhImJINPk8Zb9Bqw5R_cKjfiB0.ZdSY68esZq
+ 9E54RATXn2TAICnrTuNwqBvozvD2gCnpBFh6wy0asWCev.PUe
+X-YMailISG: 1jCl3usWLDt1A0zWjoUeCJRbHCEQ.wUjOfTFpzSLHXc0yLBO
+ 2ORpej0WkvbmFfmG1Wn2n7TXfX.5Bc0Kq7bLg..A1QFHFw26Yhdn.fpm3lI8
+ SVX4QAbWrDpRjpwpI88qI3x.ckisiBNH_dJNB5GyuVen1tpho4fcnp3rOes6
+ DLX2Y_yjTkRK.ap7..y8H8C3H9lPeHsmDwCsG5krqo6zFiYqkJVpe4tjIRvV
+ Y12gPpDm7nLRDmMPtOwrrY.VkgfGo6lSj.0hxYtmRjojygwTDXBojBKV6w.2
+ 8PibXGZRGY5byq9xVuhuDnxhhu3yNHItDBq_HngOFrMOCO4BVORg7pu_wJ5Q
+ 5J8rke6D_AUQtNxlA33og3n0JOT057IwtYNH.DqUcBMo9U7_ij0tX.ZpyczM
+ 9rKxNsvsNu_2RnmslYyTq9s58cdAV3CKTPd1Q3aMHuJ8psSaRNpCPIWrzRX7
+ .RoHELb5xMoTbMVmzLnSOxBOFLonIyRSC3BNkwz4kFMq_pZsnDiQm2Md1IRf
+ tU.XlQNFVNt2CJJK7nE5yZUSctQEyfiSmnvfetQnGaOaOhX0EXrSsssuFRmg
+ CmxnzJv0i8PQkcUnhdBcrUQqvCiWKXl4IRAW1idPxAsRkdRhLj4o2Ni3OSnq
+ tfBzgsGfmAZ8jd2hvieXC8TuKPGGYCAmgKXTpxuVN51h7nSVdlGz3E58fLxG
+ 0dyRuezDMSP6jUeTQQ1hEVhf0y4KTcFqUN.b4__amFxwjwF9LvrE5q9gQdDj
+ RyfgclfFqLArC5ulmGMaSQrrM8aplPd_LYGfEmCiYQLIqr6gqtomBA26vv4M
+ ECj3KPK0u33SF7SHWuzffwfaLlTHjV2JtI6F1ESX7I.iPs5cS_UgTEAuJ4DX
+ IQPLx8h0LJeb5tWybfEIHiveZzdJMbOELpvxMinUkzhs.ljVZKyMKWmHBjiM
+ 9CkjcNRIoYAZ5VAFL3RAlJiLW8zICJ3tF_V2f5CGR6R4uRsE8BmOF8aldriF
+ DT7WLA0zEU_Ovueg0AGe8CNornfWXky1l81Hf5tBr7ubWFUsE.WMmPwVUUnA
+ vaFZWpS0opuxYH9j7dAUn3EhlKGli8ekJEkDQUR7qGqnrm35oL5awsOH9B6b
+ I9Y2tjz7V9jfAc6cA4qvBGSe1CSo9fVlaY1YVoycW280sFelCZFcfEkS.kPU
+ 44YMXTjm
+Received: from 98.137.64.46 (EHLO sonic307-22.consmr.mail.gq1.yahoo.com)
+ by 10.253.234.155 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 02 Aug 2022 01:58:52 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1659405532; bh=YuPWTgG3m7Y740XkqnlGzHSMCCBW6D6dE8ZN5DnVX14=; h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:From:Subject:Reply-To; b=fOeyyU3J91Z5VblAvvxuahdGV3xMWHVB+DnRLYMDIvcCmpjzy9/kxvyyuWTkzwM5Felol49450pMWMxKiZbo6bCV+qrNEV6RryWf9qRq6NyXlqdSueVVPxLOC3a30nU6zHmQLJHq9kYe84GYZNKl5T1bwTcq0WW3cE6epXMQUgNnMxrz/8rvo4XuQ1m2I0NGRsL8/J+LlwUGWhXp+Ge/Sap7DptvPUCNgo8pYEv3EyeFpzPM7ZlCDaiI7aJuYgs6BIqya+sLVhJNarXvr/7GtQT+vgXE7wcYoSVclGhw1l5Q6yTijHJDF9cMPO0UOP6cHD4pONZzxvaEgivj3BPcAQ==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1659405532; bh=6Zo24A7XWdm1EKjr1wNiez74a/AlKAjW0UZ8iSsSEVV=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=XtCDpu1WU0FuWDgJ2qZdwlQ6qR6oXMaqqQDaDW6zGm02y6R58vwiPvK+Ubx5PMaq5uaWmb9GcCqIUIGOllhpFoS1lmE7bt8eNd9O7WUz3UrkLnCr3mlEIdB43mwfwpz5VHICVwxVn3s+N5zDnfbxSCOxnNttLEbT0iaHQzIWPOPmz7BGALVG51ZbSTDCwzAEIQ5tOTkAuulaGqxK/8kUuYRUv19Wc2zHi5/Ufmz7sfS646tHGY/sbQusj05/dPuJsFA1UFzP02dQviLudL8syuR6sxFQGoBo2GdG/gQJ0UsPxYuQdTmCZyJ7BSxbIFC8Rd7vrzhvYg+ZxhqXuRsGfA==
+X-YMail-OSG: 7Jjwyd8VM1n8ce4_dVvuL0q64oYDLaJFtu6sMqb0SQM20qdsAgko2o9m9bFek7I
+ OFZ9H_81UeXH99WiBCsWvYVlVFMk4qZdHP_xFWRAdFW7gGUyDMsuoE15ItG_Y8vCX5nNxGP6fkuI
+ Cs2HSihGNO7ooFcX83v4DprM_3dlbhIG0cHxEPavDxZvk4XBFbTdEBQOE6kkM77Sutcv_fS3UHw4
+ QimLIapGnnr77uCf4meId6qa3kp2lm4p6ymVm3V_J39SAgu_aNjwAzRcWe09imQfKuR5KJB7pE.1
+ FAgatWTOdv0yNU65z8AR8L08jKbEi9AsQJQkFZdoE93YOoMEoFchBsPyo.mxfXw8Gh6qI4cuzekg
+ Ct8UlUac9TK23WW9C_TaQ8gUpDOUjelwytgyzAE5rw6SoCkyFemr4k0bqHLr3Vs90Qrd2dEiTK_I
+ 7d1UdJeyT0g__UiwkiKZl8eCchR5GEtxiLpj2n63vmx.O5VPezscK7sHKmN6jYh_ZMxbA0w.eLAg
+ A0YwfCyqecXyhdlcY5yyMP8tDYHcwEY1z__uiDhOnDfQfadlB8wAUBcSkgWFhqeOVSkpNiJwLK2r
+ yMfn08x8LnZPUGekxMhMDo9UjxoeojvWSDhX.NDHjrK0o11Yf1isiKBvXFSZp5JaVVruh6UwYP6F
+ nQ_S4HQWACVg.zXTnsryOyalx4Zh6z.J0lCxrBpXGMSo3XiE7SEDgENUO.miYdQmm.DaCnWiCOVz
+ 9NatZXdHnbg3BhitnLK9eNA5xlpKA10a5JEZru0KO0cA.GiUFIr9tLoVdkkBTVa0AtWWvCrOKe0M
+ HGLAUVti4TlDxJq615RWAwnQ9SwKEaT7H5Qj9odLWrLyxVZCWy2HYDU5Vxfn10NTGAnba6VANsBf
+ Oa3Xxqx.albJfqSHaFlQ2UOubnqIIxofq6C2W6dFE6P7GOUQjLCSrM2pQZX1qn80yecRYFwAC0RB
+ wTZ74lXxgtZ7XGBnJmwExOUFPmVCX9t0RJOnajkmfxbucI2HD9AZ2N3TmpWAZjdaEcpjU5scmN7G
+ sUfomDm4cCHrdKt8abbpxujNWCFZ8ol8czRJSE1q6SFXU2waSAud0qAakLg7UWlAl365NcS6C_R9
+ h5bsL0CSZjnDxG6g73vYS98fzRp3WGZ32f9NetPqHVKONstKw6Ks.OTtH7PiG7QQgZ1BaXh4rrME
+ bFud3q1EmycPekzPwuHZRzc29b1CNAUqczAUj9Fbn1QEYj89YtjleVHWYKYgEbJApIf4OYnmTNI7
+ 4pMJuQQQfqRlHb5lV8cOI7YBH6U0UyBli0gsJfIBhyQIJi0Q_INv0rhZn4Sv37uGPpJeXl.E0Mk0
+ NtNkppybybb90Ghterp9voi35jOso.6dOsxpob9b2AerL53D7CSzN3LDnxwzJB3S9l784F4yX6wj
+ S800o4W8f.snRZ1D1m3FQBooPY3g15e_udjPmCdF9.UsMKkmXA39g61TFU3RREhLPpX6PXO4VtZ5
+ pwczfhvc4ssa5ovQE8Gi__uHZ4Edv3pwLi9Zwc9Xh7qVMQ8zRYXeZhZuPGdZ1LsX7rM.J1UIwWTY
+ _xg4EjVBPhwuuS_NIrztYOHJPD.FpIhBgKBJEBsg3ymt2S.jYKgxC2qXMPVXrogC.kAywOHnfCmG
+ GciZW2yyQI28irMgpjTSM3R1j7jyhVEk0q.6N57KzC2Wz6ddeIRf2Vw2XWpUxT6nagV2z09gvZBB
+ XYKwZ4ewZvNacaLQpi5cUDOfhHM9wKa6_j0kYBjuId6h8mY4Jjj5WYvodpX6Wpw_euevtFMulFql
+ hR1pYQNAjk2GqKQ.1H0nvl7GP88Lt6h2w0_zcXIohXJN1A1YrUf55GUgy9pfrEPb3TosmOY192Go
+ QNb_bumRLNgTamQ_MaR8uwp2zQw5WQA5VcPl9OTQUnoT4_l_ctYRtsg4m.4OAnk.t_auX8X3hmYW
+ SVNkCOq3aEbKVxoyhl.mK3UqBHyJJXRKbpR1l_jBwjvr2UL_nLfk4RM8SVXFjqqWNxUl6Q66XWR4
+ CThwlVcEo8MrmuRKNzsf5BVDmHGEWg6KgwQnnNjUhXzvePzpvKul83g_oGfpgDA9rYLM6O7EcpC7
+ awmtuqk.LXPKtsFBwN3SbZHhK4p.PgCjIdM67hOC5DHkFyLcfwrvP_puvGoNCxE7n6YJ7H.bduL0
+ pZtMqHKaCqIVxdTHEEFrwYKa0k497Z7fU20l1o1DYiX2NkjlcVff0PqeLuCT57OLdDH4bcUmFtt1
+ lGuCoJTtx4TorDJ9Y6irp5hw3VcvM2vj3bJNRJxMHlSivC7jhQJcAtdcS7pgd4Z4gE_H4PZ2B91W
+ ptbS5PUYtW622ekRF1PM8hjoFVx95ZhTqjolAeRnrnvvlVGGAZhLSKyPk2S8gR10rmsjUzLI55Mz
+ cTIvzeCjM2.OLOz5W1HJtBea.MzYxvWHuauyI64REwOr2PRyQMkwgrbX4Cbqiko0YeLd1CKXikkE
+ -
+X-Sonic-MF: <bo.dincer@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic307.consmr.mail.gq1.yahoo.com with HTTP; Tue, 2 Aug 2022 01:58:52 +0000
+Date: Tue, 2 Aug 2022 01:58:50 +0000 (UTC)
+From: Bo Dincer <bo.dincer@yahoo.com>
+Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>, 
+	"+19173783467@tmomail.net" <+19173783467@tmomail.net>, 
+	"+18774265637@tmomail.net" <+18774265637@tmomail.net>, 
+	"notification@maxient.com" <notification@maxient.com>, 
+	"2013206493@tmomail.net" <2013206493@tmomail.net>, 
+	"+19179683743@tmomail.net" <+19179683743@tmomail.net>, 
+	"5166394522@tmomail.net" <5166394522@tmomail.net>, 
+	"chair@sec.gov" <chair@sec.gov>, 
+	"3159411523@tmomail.net" <3159411523@tmomail.net>, 
+	"support@edstem.org" <support@edstem.org>, 
+	"notifications@maxient.com" <notifications@maxient.com>, 
+	"+12128543062@tmomail.net" <+12128543062@tmomail.net>, 
+	"+12128359270@tmomail.net" <+12128359270@tmomail.net>, 
+	"jpmcinvestorrelations@jpmchase.com" <jpmcinvestorrelations@jpmchase.com>, 
+	"9177671742@tmomail.net" <9177671742@tmomail.net>, 
+	"gsamonlinerequest@gs.com" <gsamonlinerequest@gs.com>, 
+	"2026442560@tmomail.net" <2026442560@tmomail.net>, 
+	"+12128530695@tmomail.net" <+12128530695@tmomail.net>, 
+	"+15164666153@tmomail.net" <+15164666153@tmomail.net>, 
+	"ms60710444266@yahoo.com" <ms60710444266@yahoo.com>
+Cc: Goldman Sachs <briefings@gs.com>, 
+	"tmprosecutordocs@uspto.gov" <tmprosecutordocs@uspto.gov>, 
+	"tips@insider.com" <tips@insider.com>, 
+	GOLDMAN INVESTOR RELATIONS <marquee@gs.com>, 
+	Career Pivot Team <gs@gs.com>, 
+	InvestmentNews Daily Pulse <investmentnews@editorial.investmentnews.com>, 
+	"edi.civil.rights.division@irs.gov" <edi.civil.rights.division@irs.gov>, 
+	FTC ANTITRUST <antitrust@ftc.gov>, 
+	County Government Law Enforcement Division <antitrust.atr@usdoj.gov>, 
+	"National.FOIAPortal (OIP)" <national.foiaportal@usdoj.gov>, 
+	"atr.cpa@usdoj.gov" <atr.cpa@usdoj.gov>, 
+	"atr.international@usdoj.gov" <atr.international@usdoj.gov>, 
+	"atr.appellate@usdoj.gov" <atr.appellate@usdoj.gov>, 
+	"risc@ic.fbi.gov" <risc@ic.fbi.gov>, 
+	"helpdesk@listserv.leo.gov" <helpdesk@listserv.leo.gov>, 
+	"helpdesk@leo.gov" <helpdesk@leo.gov>, 
+	"1pctdvo@nypd.org" <1pctdvo@nypd.org>, 
+	"1pctyco@nypd.org" <1pctyco@nypd.org>, 
+	UNITED ARTISTS MUSIC <investorrelations@umusic.com>, 
+	FDIC Public Information <publicinfo@fdic.gov>, 
+	"bop-ipp-publicaffairs@bop.gov" <bop-ipp-publicaffairs@bop.gov>, 
+	"bop-rsd-preacoordinator@bop.gov" <bop-rsd-preacoordinator@bop.gov>, 
+	"nym-preacompliancemgr-s@bop.gov" <nym-preacompliancemgr-s@bop.gov>
+Message-ID: <50179926.83936.1659405530684@mail.yahoo.com>
+In-Reply-To: <333976254.74299.1659389492671@mail.yahoo.com>
+References: <20220729031427.9DD3E4000064@mtattn03.msg.t-mobile.com> <1575441151.2869766.1659067003969@mail.yahoo.com> <685414948.1950257.1659067391614@mail.yahoo.com> <333976254.74299.1659389492671@mail.yahoo.com>
+Subject: Re: IC3. ? Filed. Now do they understand [maxient] $$$$$$$$$
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_83935_1393616588.1659405530675"
+X-Mailer: WebService/1.1.20447 YahooMailAndroidMobile
+Content-Length: 94348
+
+------=_Part_83935_1393616588.1659405530675
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+SAMSUNG GALAXY 10 MAC ADDRESS
+
+![image](https://user-images.githubusercontent.com/110014688/180962145-4afc=
+a31c-94c2-42ce-9f4b-d767d593558e.png)
+![image](https://user-images.githubusercontent.com/110014688/180962450-b42f=
+3ec5-fab7-4fd1-9984-6a286db361cd.png)
+[SAMSUNG NOT PRE-CLEARED AT ANY TIME PRIOR TO JULY 10TH 2022 FOR" casual wi=
+re taps without consent " ](https://github.com/153974-HSI-OXLEY-BANKS-40ACT=
+/153974-HSI-OXLEY-BANKS-40ACT/files/9188080/Yahoo.Mail.Document_.Re_.This.e=
+mail.also.is.not.approved.for.casual.taps.PDF)
+NYSCEF COURT DOCKETS
+
+=C2=A0260=C2=A0 EXHIBIT(S)=C2=A0=C2=A0- 1 =C2=A0(Motion #001)
+
+6.24.2020 email -=C2=A0ASHLEY.HUMPHRIES@WILSONELSER.COM
+  =20
+   -   =20
+DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY=
+ AND CIVIL RIGHTS
+
+   -   =20
+AS A REAL ESTATE ATTORNEY IN NEW YORK CIVIL PART 60, UNDER THE HON. TINGLIN=
+G.
+  =20
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DANDSuLFWlbj=
+ttGxgjUXGAw=3D=3D
+
+
+=C2=A0261=C2=A0 EXHIBIT(S)=C2=A0=C2=A0- 2 =C2=A0(Motion #001)
+
+6.25.2020=C2=A0email-ASHLEY.HUMPHRIES@WILSONELSER.COM=C2=A0- DISTRIBUTE THO=
+SE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIG=
+HTS=C2=A0https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dph=
+76T77EGjUtofiKDKCOoA=3D=3D
+
+/S/ BO DINCER=20
+=20
+  On Mon, Aug 1, 2022 at 5:31 PM, Bo Dincer<bo.dincer@yahoo.com> wrote:  =
+=20
+INDEX153974
+
+NYSCEF DOCUMENTS *** EMAIL REFERENCES
+
+https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/blob/20dbe34222e4d63431=
+0b57589005a325816e879c/Docket%20348.%20June%203%2C%202020-1.eml
+
+https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974
+
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/5
+
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/6
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/2/
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/3/
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/1/
+
+SEE ALSO: DOCKET 22. [00025]153974_2020 - LaToya Britton Legalasst_mskyline=
+.com ANNE.BRANDON APRIL 13.pdf ***=C2=A0https://iapps.courts.state.ny.us/ny=
+scef/ViewDocument?docIndex=3DHReCY2ievHu/HIFwa4RPig=3D=3D
+
+DOCKET 22. [00022]153974_2020 - ANOTHER EMAIL FROM ALEXIS MOTHER APRIL 11.p=
+df ***=C2=A0https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
+=3DxNTn/2OdKM7hivhvhyGleQ=3D=3D=C2=A018 U.S. Code =C2=A7 1512 18 U.S. Code =
+=C2=A7 1512 - Tampering with a witness, victim, or an informant ... ... ...=
+. (b)Whoever knowingly uses intimidation, threatens, or corruptly persuades=
+ another person, or attempts to do so, or engages in misleading conduct tow=
+ard another person, with intent to=E2=80=94 (1)influence, delay, or prevent=
+ the testimony of any person in an official proceeding; (2)cause or induce =
+any person to=E2=80=94 (A)withhold testimony, or withhold a record, documen=
+t, or other object, from an official proceeding; (B)alter, destroy, mutilat=
+e, or conceal an object with intent to impair the object=E2=80=99s integrit=
+y or availability for use in an official proceeding; (C)evade legal process=
+ summoning that person to appear as a witness, or to produce a record, docu=
+ment, or other object, in an official proceeding; or (D)be absent from an o=
+fficial proceeding to which such person has been summoned by legal process;=
+ or (3)hinder, delay, or prevent the communication to a law enforcement off=
+icer or judge of the United States of information relating to the commissio=
+n or possible commission of a Federal offense or a violation of conditions =
+of probation=E2=80=AF[1] supervised release,,[1] parole, or release pending=
+ judicial proceedings; shall be fined under this title or imprisoned not mo=
+re than 20 years, or both. ##(c)Whoever corruptly=E2=80=94 (1)alters, destr=
+oys, mutilates, or conceals a record, document, or other object, or attempt=
+s to do so, with the intent to impair the object=E2=80=99s integrity or ava=
+ilability for use in an official proceeding; or (2)otherwise obstructs, inf=
+luences, or impedes any official proceeding, or attempts to do so, shall be=
+ fined under this title or imprisoned not more than 20 years, or both. ##(d=
+) Whoever intentionally harasses another person and thereby hinders, delays=
+, prevents, or dissuades any person from=E2=80=94 (1)attending or testifyin=
+g in an official proceeding; (2)reporting to a law enforcement officer or j=
+udge of the United States the commission or possible commission of a Federa=
+l offense or a violation of conditions of probation=E2=80=AF1 supervised re=
+lease,,1 parole, or release pending judicial proceedings; (3)arresting or s=
+eeking the arrest of another person in connection with a Federal offense; o=
+r (4)causing a criminal prosecution, or a parole or probation revocation pr=
+oceeding, to be sought or instituted, or assisting in such prosecution or p=
+roceeding; or attempts to do so, shall be fined under this title or impriso=
+ned not more than 3 years, or both. ##(e)In a prosecution for an offense un=
+der this section, it is an affirmative defense, as to which the defendant h=
+as the burden of proof by a preponderance of the evidence, that the conduct=
+ consisted solely of lawful conduct and that the defendant=E2=80=99s sole i=
+ntention was to encourage, induce, or cause the other person to testify tru=
+thfully. ##(f)For the purposes of this section=E2=80=94 (1)an official proc=
+eeding need not be pending or about to be instituted at the time of the off=
+ense; and (2)the testimony, or the record, document, or other object need n=
+ot be admissible in evidence or free of a claim of privilege. ##(g)In a pro=
+secution for an offense under this section, no state of mind need be proved=
+ with respect to the circumstance=E2=80=94 (1) that the official proceeding=
+ before a judge, court, magistrate judge, grand jury, or government agency =
+is before a judge or court of the United States, a United States magistrate=
+ judge, a bankruptcy judge, a Federal grand jury, or a Federal Government a=
+gency; or (2) that the judge is a judge of the United States or that the la=
+w enforcement officer is an officer or employee of the Federal Government o=
+r a person authorized to act for or on behalf of the Federal Government or =
+serving the Federal Government as an adviser or consultant. (h) There is ex=
+traterritorial Federal jurisdiction over an offense under this section. (i)=
+ A prosecution under this section or section 1503 may be brought in the dis=
+trict in which the official proceeding (whether or not pending or about to =
+be instituted) was intended to be affected or in the district in which the =
+conduct constituting the alleged offense occurred. (j) If the offense under=
+ this section occurs in connection with a trial of a criminal case, the max=
+imum term of imprisonment which may be imposed for the offense shall be the=
+ higher of that otherwise provided by law or the maximum term that could ha=
+ve been imposed for any offense charged in such case. (k) Whoever conspires=
+ to commit any offense under this section shall be subject to the same pena=
+lties as those prescribed for the offense the commission of which was the o=
+bject of the conspiracy.
+
+TY. Very much appreciated.
+
+*** unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN CHASE BANK
+
+HELD IN THE ACCOUNT OF:
+        =20
+        Sullivan Properties LP.
+        101 west 55th Street, New York, NY
+
+       =20
+
+
+Custody the money the stole from me at your Bank.
+- Ill be over there later.
+
+/s/ Baris Dincer
+      XXX-86-9013
+
+     -FORMER, AND CURRENT BUSINESS CLIENT OF YOURS.
+     - Never closed the account BTW...
+     - Just made sure it was positive before I left.
+
+---------- Forwarded message ---------
+From: B D2022 <ms60710444266@yahoo.com>
+Date: Wed, May 11, 2022, 5:05 PM
+Subject: unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN CHASE BANK
+To: Bo Dincer <bdincer66@icloud.com>
+
+
+EXHIBIT(S)  - SD2
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DR9aac7D6DB=
+JZ1wsiq0b38A=3D=3D>
+
+THE SECURITY WAS DEPOSITED IN JP MORGAN CHASE BANK ON 6/15/2020
+
+
+EXHIBIT(S)  - J51
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dd7t3ED/Z4r=
+cggm8dkQ0Jlg=3D=3D>
+
+MARKED UP RENT INVOICES        =20
+__     =20
+
+
+EXHIBIT(S)  - 112  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DIJ47OvVzsL=
+ObNsXt0u8trg=3D=3D>
+
+CERTIFICATE OF OCCUPANCY
+__
+EXHIBIT(S)  - 113  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DCeL5zAaUK8=
+tfWrX9kp/QdA=3D=3D>
+
+111 SULLIVAN STREET
+__
+EXHIBIT(S)  - TR3  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D9zQd7Hu3cy=
+9vp6I960WGNQ=3D=3D>
+
+NO VERIFIABLE COMPLAINTS FILED IN MY RESIDENCE
+__
+NOTICE TO COUNTY CLERK CPLR 8019(C)  (Motion #002)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DDnmjCPN_PL=
+US_DIIELjZFua7gWQ=3D=3D>
+
+AMENDMENT TO CAPTION
+__
+NOTICE TO COUNTY CLERK CPLR 8019(C)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DcWLErrXbEw=
+5qtOLVeWU/7g=3D=3D>
+
+MOTION TO CHANGE CAPTION IN THIS MATTER, WITH ATTACHED EXHIBITS.
+__
+EXHIBIT(S)  - 237
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DXkdNmKBghA=
+AqMUItDdrwxA=3D=3D>
+
+Notice to Parties named sent via email - with attachment.
+__
+EXHIBIT(S)  - HQ
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DyMXQNekW7t=
+e0QA5jjAvP2w=3D=3D>
+
+PLAINTIFFS MANAGEMENT HEADQUARTERS
+__
+EXHIBIT(S)  - BBS
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUAXjpRh1KO=
+2_PLUS_8KsdF1TuQA=3D=3D>
+
+NYSCEF has served and informed all parties with all required
+information, immediately and presumably ... show more
+__
+EXHIBIT(S)  - 241
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DzXega0sLah=
+w5fVuBTVtpnw=3D=3D>
+
+NOT ONE SINGLE VIOLATION IN MY RESIDENCE - PER D.O.B RECORDS.
+__
+EXHIBIT(S)  - 240
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DupAzS2FC6b=
+ICOGxa73ptdg=3D=3D>
+
+SEVERAL VIOLATIONS HAVE BEEN ADDRESSED ELSEWHERE IN THE VICINITY.
+
+
+
+
+
+
+EXHIBIT(S)  - P02
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D4PiwGksCJu=
+l/AGvyopmH8g=3D=3D>
+
+RENT_2020_02_01 - RENT STATEMENT
+__
+EXHIBIT(S)  - P5R
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DvMB0J4qaYg=
+auPBeEMLIOXA=3D=3D>
+
+RENT_2020_05_01 - RENT STATEMENT
+__
+EXHIBIT(S)  - P05
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DwCwqZV3k3d=
+KPIhAESd/oag=3D=3D>
+
+RENT_2020_05_01 - RENT PAYMENT CONFIRMATION
+__
+EXHIBIT(S)  - P06
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dvd54Sn1RLw=
+YlVxoKhGh0xg=3D=3D>
+
+RENT_2020_06_01 - RENT PAYMENT AND UNLAWFUL FEES HAVE NOT BEEN REFUNDED
+__
+EXHIBIT(S)  - P6R
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DMjxo9_PLUS=
+_FdCN/p2Jrgw4MkIQ=3D=3D>
+
+RENT_2020_06_01 - THE 25% INCREASE IN THE RATE FOR THIS MONTH HAS NOT
+BEEN REFUNDED. [SEE ALSO: P06]
+__
+EXHIBIT(S)  - PR6
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DiX/P_PLUS_=
+AO_PLUS_5V4GLBs/CHBGMg=3D=3D>
+
+RENT_2020_05_31 - PAYMENT CONFIRMATION T2005311443_XF2US0 FOR $3,106.82
+- REPRESENTS A 29.72% INCREA ... show more
+__
+Document
+EXHIBIT(S)  - P07
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D4WL76ylXCt=
+w_PLUS_H5zwmPPkZw=3D=3D>
+
+JULY RENT IS REFUSED BY PLANTIFF
+__
+EXHIBIT(S)  - P7R
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dewwxg8z5wE=
+CGtkuHHm8O9A=3D=3D>
+
+2020_07_31 - INVOICE FOR JULY WITH 8,106.21 IN LEGAL FEES - LANDLORD
+REFUSES TO ACCEPT PAYMENT. SEE ... show more
+__
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dlq9Z3VE3sO4=
+pTEk1UrHB2Q=3D=3D
+PLAINTIFF/LANDLORD INVOICE FOR AUGUST RENT WITH AN ADDITIONAL $2,569.72
+IN LEGAL FEES AND $2,395 IN ... show more
+_
+
+
+
+
+
+
+
+_
+EXHIBIT(S)  - L1  (Mot
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DEJfqnPTVv0=
+u9BQ/iFgKRew=3D=3D>ion
+#001
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DEJfqnPTVv0=
+u9BQ/iFgKRew=3D=3D>
+
+EXHIBIT(S)  - OPP  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DrjL6yoW3Mt=
+2U6UigWCM9XQ=3D=3D>
+
+PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY
+__
+EXHIBIT(S)  - 503  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DSgjFfExxNV=
+4Y4DTX6pANaA=3D=3D>
+
+TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV]
+__
+EXHIBIT(S)  - no1  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G=
+0QvnmRLGpYIQ=3D=3D>
+
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH
+https://a836-acris.nyc.gov/DS/DocumentSearch/Documen ... show more
+__
+EXHIBIT(S)  - AC0  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dze6a1KA9ak=
+RV9TGfXXJT/g=3D=3D>
+
+ACRIS Detailed Document Information (2019000021408)2019010800475001
+__
+EXHIBIT(S)  - AC1  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DbVk8sIt7n3=
+kGwHqebPg0fw=3D=3D>
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+__
+EXHIBIT(S)  - AC2  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DwTG2YD2PqX=
+uxmoKqFiESrw=3D=3D>
+
+ACRIS Detailed Document Information (2020000155421)2020052000291002
+__
+EXHIBIT(S)  - AC3  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dau8qh7Dn66=
+hrVmJ9DX_PLUS_bdg=3D=3D>
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+__
+EXHIBIT(S)  - AC4  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D/yhElCiKJ0=
+BGv2DF/MOn4g=3D=3D>
+
+ACRIS Detailed Document Information (2020000155423)2020052000291004
+__
+EXHIBIT(S)  - ACR  (Motion #002)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFzm0=
+ynPeXZKSHgLQ=3D=3D>
+
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH -
+https://a836-acris.nyc.gov/
+__
+EXHIBIT(S)  - Bu0
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D7Ry3LAoVfW=
+OLjSXhyJZ94A=3D=3D>
+
+COMPLAINT #14585819 (7/25/2020) @BBB
+__
+
+)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DEJfqnPTVv0=
+u9BQ/iFgKRew=3D=3D>
+
+600 IN PENALTIES WERE ARBITRARILY INVOICED, PAID, AND REMAIN UN-REFUNDED
+AND PAID - UNLAWFUL FEES - ... show more
+__
+EXHIBIT(S)  - P/5
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DhSVGBDz7Fl=
+Xskw5BZ_PLUS_e_PLUS_ZA=3D=3D>
+
+00001_PAYMENT_05_30_2020
+__
+EXHIBIT(S)  - P/6
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DiK7ZjdNLVt=
+y6kLSL4SjeoA=3D=3D>
+
+00002_LANDLORD_REFUSES_PAYMENT
+__
+EXHIBIT(S)  - P/7
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D2lQuDSfPu5=
+1L3OhNqqRGvg=3D=3D>
+
+00003_PAYMENT_04_30_2020 - RENT PAYMENTS ALWAYS ON TIME
+
+
+EXHIBIT(S)  - GS1  (Motion #001)
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D_PLUS_TlrE=
+GCsUUcCcvtJ8O/dfg=3D=3D>
+
+PLAINTIFFS POLICIES AND PROCEDURES
+__
+
+EXHIBIT(S)  - ins
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DmzFuOKAUp7=
+O4ARBxH4uCDA=3D=3D>
+
+insurance requirement and policy
+
+
+-------- Forwarded Message -------- Subject: Fwd: Re: 16537-714-487-492, OM=
+ISSIONS, OBSTRUCTION, FITNESS, ETC. Date: Sat, 4 Jun 2022 14:02:49 -0500 Fr=
+om: B D2022=C2=A0ms60710444266@yahoo.com=C2=A0To: Yana Siegel=C2=A0yana.sie=
+gel@wilsonelser.com, WILLIAM BEHR=C2=A0william.behr@wilsonelser.com, Urvash=
+i Sinha=C2=A0urvashi.sinha@wilsonelser.com, Thomas R. Manisero=C2=A0thomas.=
+manisero@wilsonelser.com, Suzanne S. Swanson=C2=A0suzanne.swanson@wilsonels=
+er.com, Stephen J. Barrett=C2=A0stephen.barrett@wilsonelser.com, Stacey L. =
+Seltzer=C2=A0stacey.seltzer@wilsonelser.com, Sean Wagner=C2=A0sean.wagner@w=
+ilsonelser.com, Roger R. Gottilla=C2=A0roger.gottilla@wilsonelser.com, Rick=
+i Roer=C2=A0ricki.roer@wilsonelser.com, Ricki Roer=C2=A0ricki.roer@wilsonan=
+ddicker.com,=C2=A0ricki.raared@wilsonsdickers.com=C2=A0ricki.raared@wilsons=
+dickers.com,=C2=A0patricia.wik@wilsonelser.com,=C2=A0meghan.rigney@wilsonel=
+ser.com, Lori Semlies=C2=A0lori.semlies@wilsonelser.com, Lois K. Ottombrino=
+=C2=A0lois.ottombrino@wilsonelser.com, Lauren M. Zink=C2=A0lauren.zink@wils=
+onelser.com, Kathleen A. Mullins=C2=A0kathleen.mullins@wilsonelser.com,=C2=
+=A0jwilson578@bloomberg.net,=C2=A0judy.selmeci@wilsonelser.com, Jennifer L.=
+ Sciales=C2=A0jennifer.sciales@wilsonelser.com, Jennifer M. Provost=C2=A0je=
+nnifer.provost@wilsonelser.com,=C2=A0info@wilsonelser.com,=C2=A0Hannah.King=
+@WILSONELSER.COM,=C2=A0grace.song@wilsonelser.com,=C2=A0erin.zecca@wilsonel=
+ser.com,=C2=A0ellyn.wilder@wilsonelser.com,=C2=A0elizabeth.scoditti@wilsone=
+lser.com, Debra Tama=C2=A0debra.tama@wilsonelser.com, Daniel F. Flores=C2=
+=A0daniel.flores@wilsonelser.com,=C2=A0curt.schlom@wilsonelser.com,=C2=A0cr=
+aig.hunter@wilsonelser.com,=C2=A0craig.brinker@wilsonelser.com, Corrine She=
+a=C2=A0corrine.shea@wilsonelser.com,=C2=A0carole.nimaroff@wilsonelser.com,=
+=C2=A0aviva.stein@wilsonelser.com, Ashley V. Humphries=C2=A0ashley.humphrie=
+s@wilsonelser.com, Angelique Sabia-Candero=C2=A0angelique.sabia-candero@wil=
+sonelser.com,=C2=A0angel.vitiello@wilsonelser.com, Andrea Shiffman=C2=A0and=
+rea.shiffman@wilsonelser.com, Amy Hanrahan=C2=A0amy.hanrahan@wilsonelser.co=
+m,=C2=A0alex.kress@wilsonelser.com, ALDEN 00066govtIdx WILSON=C2=A0alden.wi=
+lson@maine.gov, Alan Rubin=C2=A0alan.rubin@wilsonelser.com
+
+-------- Forwarded Message -------- Subject: RISK =3D $0.00 FOR FILER 93715=
+ ... CONTINUES TO CARRY THE RISK IN 1516523 Date: Tue, 7 Jun 2022 21:25:47 =
+-0500 From: B D2022=C2=A0ms60710444266@yahoo.com=C2=A0To: Alisa Maksimova [=
+FRB-NY]=C2=A0Alisa.Maksimova@ny.frb.org, Solis, Anita=C2=A0anita.solis@chi.=
+frb.org,=C2=A0Cynthia.H.Francis@frb.gov,=C2=A0dallas-reserve-mgmt@dal.frb.o=
+rg=C2=A0dallas-reserve-mgmt@dal.frb.org, Mielke, Evan P=C2=A0evan.p.mielke@=
+chi.frb.org,=C2=A0general.info@ny.frb.com=C2=A0general.info@ny.frb.com,=C2=
+=A0general.info@ny.frb.org=C2=A0general.info@ny.frb.org,=C2=A0kenneth.j.fra=
+ser@frb.gov,=C2=A0media@chi.frb.org=C2=A0media@chi.frb.org,=C2=A0ny.public.=
+information@ny.frb.org,=C2=A0ny.reserves@ny.frb.org=C2=A0ny.reserves@ny.frb=
+.org,=C2=A0nyreporting.forms@ny.frb.org=C2=A0nyreporting.forms@ny.frb.org,=
+=C2=A0oighotline@frb.gov=C2=A0oighotline@frb.gov,=C2=A0reserves@chi.frb.org=
+=C2=A0reserves@chi.frb.org, Sec News=C2=A0webmaster@sec.gov,=C2=A0texas@sec=
+.gov,=C2=A0shareholderproposals@sec.gov=C2=A0shareholderproposals@sec.gov,=
+=C2=A0Secretarys-Office@sec.gov, Rule-Comments=C2=A0rule-comments@sec.gov,=
+=C2=A0publicinfo@sec.gov=C2=A0publicinfo@sec.gov,=C2=A0philadelphia@sec.gov=
+, Pamela Gibbs [SEC]=C2=A0OMWI@sec.gov, Ombudsman=C2=A0Ombudsman@sec.gov, C=
+arl Hoecker [SEC]=C2=A0OIG@sec.gov,=C2=A0oca@sec.gov=C2=A0oca@sec.gov,=C2=
+=A0NYROBankruptcy@SEC.GOV,=C2=A0newyork@sec.gov=C2=A0newyork@sec.gov,=C2=A0=
+losangeles@sec.gov=C2=A0losangeles@sec.gov, IMshareholderproposals=C2=A0IMS=
+hareholderProposals@sec.gov,=C2=A0foiapa@sec.gov,=C2=A0dfw@sec.gov=C2=A0dfw=
+@sec.gov,=C2=A0denver@sec.gov,=C2=A0dcaoletters@sec.gov=C2=A0dcaoletters@se=
+c.gov,=C2=A0cshugg@usinfosec.com,=C2=A0CHICAGO@SEC.GOV=C2=A0CHICAGO@SEC.GOV=
+, LORI SCHOCK=C2=A0CHAIR@SEC.GOV,=C2=A0boston@sec.gov=C2=A0boston@sec.gov,=
+=C2=A0atlanta@sec.gov,=C2=A0megan.disciullo@pwc.com=C2=A0megan.disciullo@pw=
+c.com,=C2=A0larissa.vonlockner@pwc.com=C2=A0larissa.vonlockner@pwc.com,=C2=
+=A0ryan.a.cangialosi@pwc.com=C2=A0ryan.a.cangialosi@pwc.com,=C2=A0kivalena.=
+starr@pwc.com=C2=A0kivalena.starr@pwc.com,=C2=A0jordana.strosberg@pwc.com=
+=C2=A0jordana.strosberg@pwc.com,=C2=A0will.b.hodges@pwc.com=C2=A0will.b.hod=
+ges@pwc.com,=C2=A0jennifer.vanoss@pwc.com=C2=A0jennifer.vanoss@pwc.com=C2=
+=A0CC:=C2=A0alex.zuluaga@ey.com=C2=A0alex.zuluaga@ey.com,=C2=A0david.brown1=
+@ey.com=C2=A0david.brown1@ey.com,=C2=A0Deborah.Jones@ey.com=C2=A0Deborah.Jo=
+nes@ey.com,=C2=A0info@ey.com=C2=A0info@ey.com,=C2=A0jacqueline.kelley@ey.co=
+m=C2=A0jacqueline.kelley@ey.com,=C2=A0karim.anani@ey.com=C2=A0karim.anani@e=
+y.com,=C2=A0kevin.klimara@ey.com=C2=A0kevin.klimara@ey.com,=C2=A0lee.hender=
+son@ey.com=C2=A0lee.henderson@ey.com,=C2=A0mark.schwartz1@ey.com=C2=A0mark.=
+schwartz1@ey.com,=C2=A0rachel.gerring@ey.com=C2=A0rachel.gerring@ey.com, KA=
+THY HOCHUL=C2=A0governor.hochul@exec.ny.gov,=C2=A0ACSInspectorGeneral@doi.n=
+yc.gov=C2=A0ACSInspectorGeneral@doi.nyc.gov, Bradley D. Howard=C2=A0BHoward=
+@doi.nyc.gov,=C2=A0mmorris@doi.nyc.gov=C2=A0mmorris@doi.nyc.gov,=C2=A0whist=
+leblowerprotection@doioig.gov,=C2=A0squad5complaint@doi.nyc.gov
+
+you can download the email and read receipts here: JUNE 3RD - 2020 -- WARNI=
+NG LETTER [ URL ]
+
+HERE IS THE EMAIL:
+
+https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/raw/20dbe34222e4d634310=
+b57589005a325816e879c/Docket%20348.%20June%203%2C%202020-1.eml
+
+HERE IS A SCHEDULE OF OTHER EMAILS DISTRIBUTED TO MATERIAL PARTIES, AND AT =
+ANY MOMENT TO AVOID THE RISK OF
+
+LIEN & LIABILITY TO THE EXCESS OF $500,000,000.00
+
+APPROXIMATE "PURPORTED" MARKET CAP
+  =20
+   - UNSURE OF ANY OTHER LINES OF CREDIT WHICH ARE UNDISCLOSED.
+
+/S/ BO DINCER=20
+=20
+  On Fri, Jul 29, 2022 at 12:03 AM, Bo Dincer<bo.dincer@yahoo.com> wrote:  =
+ FEDERAL-USE-AND-DISTRIBUTION-ONLY/Internet Crime Complaint Center-1.eml at=
+ COMPLAINTS-FILED-IN-MY-BUILDING =C2=B7 WILSON-ELSER-STATEFARM-SULLIVAN-ZUC=
+KER/FEDERAL-USE-AND-DISTRIBUTION-ONLY =20
+| =20
+| =20
+| =20
+|   |    |
+
+  |
+
+  |
+| =20
+|   | =20
+FEDERAL-USE-AND-DISTRIBUTION-ONLY/Internet Crime Complaint Center-1.eml at =
+COMPLAINTS-FILED-IN-MY-BUILDING =C2=B7 WILSON-ELSER-STATEFARM-SULLIVAN-ZUCK=
+ER/FEDERAL-USE-AND-DISTRIBUTION-ONLY
+=20
+Config files for my GitHub profile. Contribute to WILSON-ELSER-STATEFARM-SU=
+LLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY development by creating an =
+account on GitHub.
+  |   |
+
+  |
+
+  |
+
+ =20
+???
+>From - Mon, 27 Jun 2022 23:10:24 GMTX-Mozilla-Status: 1001X-Mozilla-Status2=
+: 00800000Content-Type: multipart/alternative;=C2=A0boundary=3D"-----------=
+-xxaIlUcWFBVfm8sfmyJ60zxu"Message-ID: <6ffe23a8-2e04-dbe5-cd75-69f5aef4f1ee=
+@yahoo.com>Date: Mon, 27 Jun 2022 18:10:16 -0500MIME-Version: 1.0User-Agent=
+: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101=C2=A0Thu=
+nderbird/91.9.1Content-Language: en-USTo: Stephen O'Connell <sgo2107@columb=
+ia.edu>From: B D2022 <ms60710444266@yahoo.com>Bcc: "usdoj@public.govdeliver=
+y.com" <usdoj@public.govdelivery.com>,=C2=A0"irs@service.govdelivery.com" <=
+irs@service.govdelivery.com>,=C2=A0"usttb@public.govdelivery.com" <usttb@pu=
+blic.govdelivery.com>,=C2=A0"financialeducation@info.consumerfinance.gov"=
+=C2=A0<financialeducation@info.consumerfinance.gov>,=C2=A0"DHSOIG@public.go=
+vdelivery.com" <DHSOIG@public.govdelivery.com>,=C2=A0"vaoig@messages.va.gov=
+" <vaoig@messages.va.gov>,=C2=A0"pbgc@subscriptions.pbgc.gov" <pbgc@subscri=
+ptions.pbgc.gov>,=C2=A0"USPSOIG@public.govdelivery.com" <USPSOIG@public.gov=
+delivery.com>,=C2=A0"cdfifund@service.govdelivery.com" <cdfifund@service.go=
+vdelivery.com>,=C2=A0"subscribe@subscribe.ftc.gov" <subscribe@subscribe.ftc=
+.gov>,=C2=A0"vatax@public.govdelivery.com" <vatax@public.govdelivery.com>,=
+=C2=A0"tigta@service.govdelivery.com" <tigta@service.govdelivery.com>,=C2=
+=A0"news@updates.sba.gov" <news@updates.sba.gov>,=C2=A0"news@updates.oig.do=
+t.gov" <news@updates.oig.dot.gov>Subject: Internet Crime Complaint CenterDi=
+sposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
+This is a multi-part message in MIME format.--------------xxaIlUcWFBVfm8sfm=
+yJ60zxuContent-Type: text/plain; charset=3DUTF-8; format=3Dflowed
+
+/S/ BO DINCER=20
+=20
+  On Thu, Jul 28, 2022 at 11:56 PM, Bo Dincer<bo.dincer@yahoo.com> wrote:  =
+ https://faxzero.com/status/31316917/6b34c3ad9620003256df358c638765fc2ae387=
+cc
+KG2987@COLUMBIA.edu
+Not included on this pipeline.=C2=A0
+
+/S/ BO DINCER=20
+=20
+  On Thu, Jul 28, 2022 at 11:51 PM, +19173783467@tmomail.net<+19173783467@t=
+momail.net> wrote:   https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUC=
+KER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/find/COMPLAINTS-FILED-IN-MY-BUILDING =
+=20
+ =20
+ =20
+ =20
+
+------=_Part_83935_1393616588.1659405530675
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<h2 style=3D"margin-top: 24px; margin-bottom: 16px; line-height: 1.25; padd=
+ing-bottom: 0.3em; border-bottom: 1px solid var(--border); color: rgb(251, =
+251, 252); font-family: inter;" id=3D"yMail_cursorElementTracker_1659405517=
+421">SAMSUNG GALAXY 10 MAC ADDRESS</h2><br style=3D"color: rgb(251, 251, 25=
+2); font-family: inter;"><span style=3D"color: rgb(251, 251, 252); font-fam=
+ily: inter;">![image](</span><a href=3D"https://user-images.githubuserconte=
+nt.com/110014688/180962145-4afca31c-94c2-42ce-9f4b-d767d593558e.png" style=
+=3D"text-decoration-line: none; -webkit-tap-highlight-color: var(--link-hig=
+hlight); word-break: break-word; font-family: inter;" id=3D"yMail_cursorEle=
+mentTracker_1659405519645" target=3D"_blank" rel=3D"noreferrer noopener">ht=
+tps://user-images.githubusercontent.com/110014688/180962145-4afca31c-94c2-4=
+2ce-9f4b-d767d593558e.png</a><span style=3D"color: rgb(251, 251, 252); font=
+-family: inter;" id=3D"yMail_cursorElementTracker_1659405520300">)</span><d=
+iv id=3D"yMail_cursorElementTracker_1659405522334"><br style=3D"color: rgb(=
+251, 251, 252); font-family: inter;"><span style=3D"color: rgb(251, 251, 25=
+2); font-family: inter;">![image](</span><a href=3D"https://user-images.git=
+hubusercontent.com/110014688/180962450-b42f3ec5-fab7-4fd1-9984-6a286db361cd=
+.png" style=3D"text-decoration-line: none; -webkit-tap-highlight-color: var=
+(--link-highlight); word-break: break-word; font-family: inter;" target=3D"=
+_blank" rel=3D"noreferrer noopener">https://user-images.githubusercontent.c=
+om/110014688/180962450-b42f3ec5-fab7-4fd1-9984-6a286db361cd.png</a><span st=
+yle=3D"color: rgb(251, 251, 252); font-family: inter;" id=3D"yMail_cursorEl=
+ementTracker_1659405523329">)</span></div><div id=3D"yMail_cursorElementTra=
+cker_1659405523957"><br style=3D"color: rgb(251, 251, 252); font-family: in=
+ter;"><span style=3D"color: rgb(251, 251, 252); font-family: inter;">[SAMSU=
+NG NOT PRE-CLEARED AT ANY TIME PRIOR TO JULY 10TH 2022 FOR" casual wire tap=
+s without consent " ](</span><a href=3D"https://github.com/153974-HSI-OXLEY=
+-BANKS-40ACT/153974-HSI-OXLEY-BANKS-40ACT/files/9188080/Yahoo.Mail.Document=
+_.Re_.This.email.also.is.not.approved.for.casual.taps.PDF" style=3D"text-de=
+coration-line: none; -webkit-tap-highlight-color: var(--link-highlight); wo=
+rd-break: break-word; font-family: inter;" target=3D"_blank" rel=3D"norefer=
+rer noopener">https://github.com/153974-HSI-OXLEY-BANKS-40ACT/153974-HSI-OX=
+LEY-BANKS-40ACT/files/9188080/Yahoo.Mail.Document_.Re_.This.email.also.is.n=
+ot.approved.for.casual.taps.PDF</a><span style=3D"color: rgb(251, 251, 252)=
+; font-family: inter;">)</span><p style=3D"margin-top: 0px; margin-bottom: =
+16px; color: rgb(251, 251, 252); font-family: inter;">NYSCEF COURT DOCKETS<=
+/p><p style=3D"margin-top: 0px; margin-bottom: 16px; color: rgb(251, 251, 2=
+52); font-family: inter;">&nbsp;260&nbsp; EXHIBIT(S)&nbsp;&nbsp;- 1 &nbsp;(=
+Motion #001)</p><p style=3D"margin-top: 0px; margin-bottom: 16px; color: rg=
+b(251, 251, 252); font-family: inter;">6.24.2020 email -&nbsp;<a href=3D"ma=
+ilto:ASHLEY.HUMPHRIES@WILSONELSER.COM" style=3D"text-decoration-line: none;=
+ -webkit-tap-highlight-color: var(--link-highlight); word-break: break-word=
+;" target=3D"_blank" rel=3D"noreferrer noopener">ASHLEY.HUMPHRIES@WILSONELS=
+ER.COM</a></p><ul style=3D"margin-top: 0px; margin-bottom: 16px; padding-le=
+ft: 1.5em; color: rgb(251, 251, 252); font-family: inter;"><li><p style=3D"=
+margin-top: 16px; margin-bottom: 16px;">DISTRIBUTE THOSE VIDEO.MOV FILES WI=
+THOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS</p></li><li style=
+=3D"margin-top: 0.25em;"><p style=3D"margin-top: 16px; margin-bottom: 16px;=
+">AS A REAL ESTATE ATTORNEY IN NEW YORK CIVIL PART 60, UNDER THE HON. TINGL=
+ING.</p><p style=3D"margin-top: 16px; margin-bottom: 16px;"><a href=3D"http=
+s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DANDSuLFWlbjttGx=
+gjUXGAw=3D=3D" style=3D"text-decoration-line: none; -webkit-tap-highlight-c=
+olor: var(--link-highlight); word-break: break-word;" target=3D"_blank" rel=
+=3D"noreferrer noopener">https://iapps.courts.state.ny.us/nyscef/ViewDocume=
+nt?docIndex=3DANDSuLFWlbjttGxgjUXGAw=3D=3D</a></p></li></ul><p style=3D"mar=
+gin-top: 0px; margin-bottom: 16px; color: rgb(251, 251, 252); font-family: =
+inter;">&nbsp;261&nbsp; EXHIBIT(S)&nbsp;&nbsp;- 2 &nbsp;(Motion #001)</p><p=
+ style=3D"margin-top: 0px; margin-bottom: 16px; color: rgb(251, 251, 252); =
+font-family: inter;">6.25.2020&nbsp;<a href=3D"mailto:email-ASHLEY.HUMPHRIE=
+S@WILSONELSER.COM" style=3D"text-decoration-line: none; -webkit-tap-highlig=
+ht-color: var(--link-highlight); word-break: break-word;" target=3D"_blank"=
+ rel=3D"noreferrer noopener">email-ASHLEY.HUMPHRIES@WILSONELSER.COM</a>&nbs=
+p;- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRI=
+VACY AND CIVIL RIGHTS&nbsp;<a href=3D"https://iapps.courts.state.ny.us/nysc=
+ef/ViewDocument?docIndex=3Dph76T77EGjUtofiKDKCOoA=3D=3D" style=3D"text-deco=
+ration-line: none; -webkit-tap-highlight-color: var(--link-highlight); word=
+-break: break-word;" id=3D"yMail_cursorElementTracker_1659405486994" target=
+=3D"_blank" rel=3D"noreferrer noopener">https://iapps.courts.state.ny.us/ny=
+scef/ViewDocument?docIndex=3Dph76T77EGjUtofiKDKCOoA=3D=3D</a></p><br><div i=
+d=3D"ymail_android_signature">/S/ BO DINCER</div> <br> <blockquote style=3D=
+"margin: 0 0 20px 0;"> <div style=3D"font-family:Roboto, sans-serif; color:=
+#6D00F6;"> <div>On Mon, Aug 1, 2022 at 5:31 PM, Bo Dincer</div><div>&lt;bo.=
+dincer@yahoo.com&gt; wrote:</div> </div> <div style=3D"padding: 10px 0 0 20=
+px; margin: 10px 0 0 0; border-left: 1px solid #6D00F6;"> <div id=3D"yiv426=
+3504773"><div><h1 style=3D"margin-bottom:16px;line-height:1.25;padding-bott=
+om:0.3em;border-bottom:1px solid;color:rgb(5, 5, 5);font-family:inter;margi=
+n-top:0px !important;">INDEX153974</h1><p style=3D"margin-top:0px;margin-bo=
+ttom:16px;color:rgb(5, 5, 5);font-family:inter;">NYSCEF DOCUMENTS *** EMAIL=
+ REFERENCES</p><p style=3D"margin-top:0px;margin-bottom:16px;color:rgb(5, 5=
+, 5);font-family:inter;"><a shape=3D"rect" href=3D"https://github.com/BSCPG=
+ROUPHOLDINGSLLC/INDEX153974/blob/20dbe34222e4d634310b57589005a325816e879c/D=
+ocket%20348.%20June%203%2C%202020-1.eml" style=3D"text-decoration-line:none=
+;" target=3D"_blank" rel=3D"noreferrer noopener">https://github.com/BSCPGRO=
+UPHOLDINGSLLC/INDEX153974/blob/20dbe34222e4d634310b57589005a325816e879c/Doc=
+ket%20348.%20June%203%2C%202020-1.eml</a></p><p style=3D"margin-top:0px;mar=
+gin-bottom:16px;color:rgb(5, 5, 5);font-family:inter;"><a shape=3D"rect" hr=
+ef=3D"https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974" style=3D"text-de=
+coration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">https://=
+github.com/BSCPGROUPHOLDINGSLLC/INDEX153974</a></p><hr style=3D"min-height:=
+0.25em;padding:0px;margin:24px 0px;border:0px;color:rgb(5, 5, 5);font-famil=
+y:inter;"><p style=3D"margin-top:0px;margin-bottom:16px;color:rgb(5, 5, 5);=
+font-family:inter;"><a shape=3D"rect" href=3D"https://github.com/BSCPGROUPH=
+OLDINGSLLC/AIDED-LIKE-BERNIE/issues/5" style=3D"text-decoration-line:none;"=
+ target=3D"_blank" rel=3D"noreferrer noopener">https://github.com/BSCPGROUP=
+HOLDINGSLLC/AIDED-LIKE-BERNIE/issues/5</a></p><p style=3D"margin-top:0px;ma=
+rgin-bottom:16px;color:rgb(5, 5, 5);font-family:inter;"><a shape=3D"rect" h=
+ref=3D"https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/6" =
+style=3D"text-decoration-line:none;border-radius:5px;" target=3D"_blank" re=
+l=3D"noreferrer noopener">https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIK=
+E-BERNIE/issues/6</a></p><p style=3D"margin-top:0px;margin-bottom:16px;colo=
+r:rgb(5, 5, 5);font-family:inter;"><a shape=3D"rect" href=3D"https://github=
+.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/2/" style=3D"text-decoratio=
+n-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">https://github.=
+com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/2/</a></p><p style=3D"margin=
+-top:0px;margin-bottom:16px;color:rgb(5, 5, 5);font-family:inter;"><a shape=
+=3D"rect" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/=
+pull/3/" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"nore=
+ferrer noopener">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/p=
+ull/3/</a></p><p style=3D"margin-top:0px;margin-bottom:16px;color:rgb(5, 5,=
+ 5);font-family:inter;"><a shape=3D"rect" href=3D"https://github.com/BSCPGR=
+OUPHOLDINGSLLC/ELSER-AND-DICKER/pull/1/" style=3D"text-decoration-line:none=
+;" target=3D"_blank" rel=3D"noreferrer noopener">https://github.com/BSCPGRO=
+UPHOLDINGSLLC/ELSER-AND-DICKER/pull/1/</a></p><p style=3D"margin-top:0px;ma=
+rgin-bottom:16px;color:rgb(5, 5, 5);font-family:inter;">SEE ALSO: DOCKET 22=
+. [00025]153974_2020 - LaToya Britton Legalasst_mskyline.com ANNE.BRANDON A=
+PRIL 13.pdf ***&nbsp;<a shape=3D"rect" href=3D"https://iapps.courts.state.n=
+y.us/nyscef/ViewDocument?docIndex=3DHReCY2ievHu/HIFwa4RPig=3D=3D" style=3D"=
+text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">h=
+ttps://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DHReCY2ievHu/=
+HIFwa4RPig=3D=3D</a></p><p style=3D"margin-top:0px;margin-bottom:16px;color=
+:rgb(5, 5, 5);font-family:inter;">DOCKET 22. [00022]153974_2020 - ANOTHER E=
+MAIL FROM ALEXIS MOTHER APRIL 11.pdf ***&nbsp;<a shape=3D"rect" href=3D"htt=
+ps://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DxNTn/2OdKM7hiv=
+hvhyGleQ=3D=3D" style=3D"text-decoration-line:none;" target=3D"_blank" rel=
+=3D"noreferrer noopener">https://iapps.courts.state.ny.us/nyscef/ViewDocume=
+nt?docIndex=3DxNTn/2OdKM7hivhvhyGleQ=3D=3D</a>&nbsp;18 U.S. Code =C2=A7 151=
+2 18 U.S. Code =C2=A7 1512 - Tampering with a witness, victim, or an inform=
+ant ... ... .... (b)Whoever knowingly uses intimidation, threatens, or corr=
+uptly persuades another person, or attempts to do so, or engages in mislead=
+ing conduct toward another person, with intent to=E2=80=94 (1)influence, de=
+lay, or prevent the testimony of any person in an official proceeding; (2)c=
+ause or induce any person to=E2=80=94 (A)withhold testimony, or withhold a =
+record, document, or other object, from an official proceeding; (B)alter, d=
+estroy, mutilate, or conceal an object with intent to impair the object=E2=
+=80=99s integrity or availability for use in an official proceeding; (C)eva=
+de legal process summoning that person to appear as a witness, or to produc=
+e a record, document, or other object, in an official proceeding; or (D)be =
+absent from an official proceeding to which such person has been summoned b=
+y legal process; or (3)hinder, delay, or prevent the communication to a law=
+ enforcement officer or judge of the United States of information relating =
+to the commission or possible commission of a Federal offense or a violatio=
+n of conditions of probation=E2=80=AF[1] supervised release,,[1] parole, or=
+ release pending judicial proceedings; shall be fined under this title or i=
+mprisoned not more than 20 years, or both. ##(c)Whoever corruptly=E2=80=94 =
+(1)alters, destroys, mutilates, or conceals a record, document, or other ob=
+ject, or attempts to do so, with the intent to impair the object=E2=80=99s =
+integrity or availability for use in an official proceeding; or (2)otherwis=
+e obstructs, influences, or impedes any official proceeding, or attempts to=
+ do so, shall be fined under this title or imprisoned not more than 20 year=
+s, or both. ##(d) Whoever intentionally harasses another person and thereby=
+ hinders, delays, prevents, or dissuades any person from=E2=80=94 (1)attend=
+ing or testifying in an official proceeding; (2)reporting to a law enforcem=
+ent officer or judge of the United States the commission or possible commis=
+sion of a Federal offense or a violation of conditions of probation=E2=80=
+=AF1 supervised release,,1 parole, or release pending judicial proceedings;=
+ (3)arresting or seeking the arrest of another person in connection with a =
+Federal offense; or (4)causing a criminal prosecution, or a parole or proba=
+tion revocation proceeding, to be sought or instituted, or assisting in suc=
+h prosecution or proceeding; or attempts to do so, shall be fined under thi=
+s title or imprisoned not more than 3 years, or both. ##(e)In a prosecution=
+ for an offense under this section, it is an affirmative defense, as to whi=
+ch the defendant has the burden of proof by a preponderance of the evidence=
+, that the conduct consisted solely of lawful conduct and that the defendan=
+t=E2=80=99s sole intention was to encourage, induce, or cause the other per=
+son to testify truthfully. ##(f)For the purposes of this section=E2=80=94 (=
+1)an official proceeding need not be pending or about to be instituted at t=
+he time of the offense; and (2)the testimony, or the record, document, or o=
+ther object need not be admissible in evidence or free of a claim of privil=
+ege. ##(g)In a prosecution for an offense under this section, no state of m=
+ind need be proved with respect to the circumstance=E2=80=94 (1) that the o=
+fficial proceeding before a judge, court, magistrate judge, grand jury, or =
+government agency is before a judge or court of the United States, a United=
+ States magistrate judge, a bankruptcy judge, a Federal grand jury, or a Fe=
+deral Government agency; or (2) that the judge is a judge of the United Sta=
+tes or that the law enforcement officer is an officer or employee of the Fe=
+deral Government or a person authorized to act for or on behalf of the Fede=
+ral Government or serving the Federal Government as an adviser or consultan=
+t. (h) There is extraterritorial Federal jurisdiction over an offense under=
+ this section. (i) A prosecution under this section or section 1503 may be =
+brought in the district in which the official proceeding (whether or not pe=
+nding or about to be instituted) was intended to be affected or in the dist=
+rict in which the conduct constituting the alleged offense occurred. (j) If=
+ the offense under this section occurs in connection with a trial of a crim=
+inal case, the maximum term of imprisonment which may be imposed for the of=
+fense shall be the higher of that otherwise provided by law or the maximum =
+term that could have been imposed for any offense charged in such case. (k)=
+ Whoever conspires to commit any offense under this section shall be subjec=
+t to the same penalties as those prescribed for the offense the commission =
+of which was the object of the conspiracy.</p><p style=3D"margin-top:0px;ma=
+rgin-bottom:16px;color:rgb(5, 5, 5);font-family:inter;">TY. Very much appre=
+ciated.</p><blockquote style=3D"margin-top:0px;margin-right:0px;margin-bott=
+om:16px;padding-left:1em;position:relative;font-family:inter;"><pre style=
+=3D"font-size:10.88px;margin-top:0px;margin-bottom:0px;padding:16px;overflo=
+w:auto;line-height:1.45;border-radius:6px;"><code style=3D"padding:0px;marg=
+in:0px;background:initial;border-radius:6px;white-space:pre;border:0px;disp=
+lay:inline;overflow:visible;line-height:inherit;">*** unlawful RENT and PAY=
+MENTS in CUSTODY at JP MORGAN CHASE BANK
+
+HELD IN THE ACCOUNT OF:
+        =20
+        Sullivan Properties LP.
+        101 west 55th Street, New York, NY
+
+       =20
+
+
+Custody the money the stole from me at your Bank.
+- Ill be over there later.
+
+/s/ Baris Dincer
+      XXX-86-9013
+
+     -FORMER, AND CURRENT BUSINESS CLIENT OF YOURS.
+     - Never closed the account BTW...
+     - Just made sure it was positive before I left.
+
+---------- Forwarded message ---------
+From: B D2022 &lt;ms60710444266@yahoo.com&gt;
+Date: Wed, May 11, 2022, 5:05 PM
+Subject: unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN CHASE BANK
+To: Bo Dincer &lt;bdincer66@icloud.com&gt;
+
+
+EXHIBIT(S)  - SD2
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DR9aac7D=
+6DBJZ1wsiq0b38A=3D=3D&gt;
+
+THE SECURITY WAS DEPOSITED IN JP MORGAN CHASE BANK ON 6/15/2020
+
+
+EXHIBIT(S)  - J51
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dd7t3ED/=
+Z4rcggm8dkQ0Jlg=3D=3D&gt;
+
+MARKED UP RENT INVOICES        =20
+__     =20
+
+
+EXHIBIT(S)  - 112  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DIJ47OvV=
+zsLObNsXt0u8trg=3D=3D&gt;
+
+CERTIFICATE OF OCCUPANCY
+__
+EXHIBIT(S)  - 113  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DCeL5zAa=
+UK8tfWrX9kp/QdA=3D=3D&gt;
+
+111 SULLIVAN STREET
+__
+EXHIBIT(S)  - TR3  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D9zQd7Hu=
+3cy9vp6I960WGNQ=3D=3D&gt;
+
+NO VERIFIABLE COMPLAINTS FILED IN MY RESIDENCE
+__
+NOTICE TO COUNTY CLERK CPLR 8019(C)  (Motion #002)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DDnmjCPN=
+_PLUS_DIIELjZFua7gWQ=3D=3D&gt;
+
+AMENDMENT TO CAPTION
+__
+NOTICE TO COUNTY CLERK CPLR 8019(C)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DcWLErrX=
+bEw5qtOLVeWU/7g=3D=3D&gt;
+
+MOTION TO CHANGE CAPTION IN THIS MATTER, WITH ATTACHED EXHIBITS.
+__
+EXHIBIT(S)  - 237
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DXkdNmKB=
+ghAAqMUItDdrwxA=3D=3D&gt;
+
+Notice to Parties named sent via email - with attachment.
+__
+EXHIBIT(S)  - HQ
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DyMXQNek=
+W7te0QA5jjAvP2w=3D=3D&gt;
+
+PLAINTIFFS MANAGEMENT HEADQUARTERS
+__
+EXHIBIT(S)  - BBS
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUAXjpRh=
+1KO2_PLUS_8KsdF1TuQA=3D=3D&gt;
+
+NYSCEF has served and informed all parties with all required
+information, immediately and presumably ... show more
+__
+EXHIBIT(S)  - 241
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DzXega0s=
+Lahw5fVuBTVtpnw=3D=3D&gt;
+
+NOT ONE SINGLE VIOLATION IN MY RESIDENCE - PER D.O.B RECORDS.
+__
+EXHIBIT(S)  - 240
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DupAzS2F=
+C6bICOGxa73ptdg=3D=3D&gt;
+
+SEVERAL VIOLATIONS HAVE BEEN ADDRESSED ELSEWHERE IN THE VICINITY.
+
+
+
+
+
+
+EXHIBIT(S)  - P02
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D4PiwGks=
+CJul/AGvyopmH8g=3D=3D&gt;
+
+RENT_2020_02_01 - RENT STATEMENT
+__
+EXHIBIT(S)  - P5R
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DvMB0J4q=
+aYgauPBeEMLIOXA=3D=3D&gt;
+
+RENT_2020_05_01 - RENT STATEMENT
+__
+EXHIBIT(S)  - P05
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DwCwqZV3=
+k3dKPIhAESd/oag=3D=3D&gt;
+
+RENT_2020_05_01 - RENT PAYMENT CONFIRMATION
+__
+EXHIBIT(S)  - P06
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dvd54Sn1=
+RLwYlVxoKhGh0xg=3D=3D&gt;
+
+RENT_2020_06_01 - RENT PAYMENT AND UNLAWFUL FEES HAVE NOT BEEN REFUNDED
+__
+EXHIBIT(S)  - P6R
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DMjxo9_P=
+LUS_FdCN/p2Jrgw4MkIQ=3D=3D&gt;
+
+RENT_2020_06_01 - THE 25% INCREASE IN THE RATE FOR THIS MONTH HAS NOT
+BEEN REFUNDED. [SEE ALSO: P06]
+__
+EXHIBIT(S)  - PR6
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DiX/P_PL=
+US_AO_PLUS_5V4GLBs/CHBGMg=3D=3D&gt;
+
+RENT_2020_05_31 - PAYMENT CONFIRMATION T2005311443_XF2US0 FOR $3,106.82
+- REPRESENTS A 29.72% INCREA ... show more
+__
+Document
+EXHIBIT(S)  - P07
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D4WL76yl=
+XCtw_PLUS_H5zwmPPkZw=3D=3D&gt;
+
+JULY RENT IS REFUSED BY PLANTIFF
+__
+EXHIBIT(S)  - P7R
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dewwxg8z=
+5wECGtkuHHm8O9A=3D=3D&gt;
+
+2020_07_31 - INVOICE FOR JULY WITH 8,106.21 IN LEGAL FEES - LANDLORD
+REFUSES TO ACCEPT PAYMENT. SEE ... show more
+__
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dlq9Z3VE3sO4=
+pTEk1UrHB2Q=3D=3D
+PLAINTIFF/LANDLORD INVOICE FOR AUGUST RENT WITH AN ADDITIONAL $2,569.72
+IN LEGAL FEES AND $2,395 IN ... show more
+_
+
+
+
+
+
+
+
+_
+EXHIBIT(S)  - L1  (Mot
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DEJfqnPT=
+Vv0u9BQ/iFgKRew=3D=3D&gt;ion
+#001
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DEJfqnPT=
+Vv0u9BQ/iFgKRew=3D=3D&gt;
+
+EXHIBIT(S)  - OPP  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DrjL6yoW=
+3Mt2U6UigWCM9XQ=3D=3D&gt;
+
+PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY
+__
+EXHIBIT(S)  - 503  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DSgjFfEx=
+xNV4Y4DTX6pANaA=3D=3D&gt;
+
+TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV]
+__
+EXHIBIT(S)  - no1  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFX=
+y0G0QvnmRLGpYIQ=3D=3D&gt;
+
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH
+https://a836-acris.nyc.gov/DS/DocumentSearch/Documen ... show more
+__
+EXHIBIT(S)  - AC0  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dze6a1KA=
+9akRV9TGfXXJT/g=3D=3D&gt;
+
+ACRIS Detailed Document Information (2019000021408)2019010800475001
+__
+EXHIBIT(S)  - AC1  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DbVk8sIt=
+7n3kGwHqebPg0fw=3D=3D&gt;
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+__
+EXHIBIT(S)  - AC2  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DwTG2YD2=
+PqXuxmoKqFiESrw=3D=3D&gt;
+
+ACRIS Detailed Document Information (2020000155421)2020052000291002
+__
+EXHIBIT(S)  - AC3  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dau8qh7D=
+n66hrVmJ9DX_PLUS_bdg=3D=3D&gt;
+
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+__
+EXHIBIT(S)  - AC4  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D/yhElCi=
+KJ0BGv2DF/MOn4g=3D=3D&gt;
+
+ACRIS Detailed Document Information (2020000155423)2020052000291004
+__
+EXHIBIT(S)  - ACR  (Motion #002)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaF=
+zm0ynPeXZKSHgLQ=3D=3D&gt;
+
+ACRIS.NYC.GOV &gt;&gt; ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH -
+https://a836-acris.nyc.gov/
+__
+EXHIBIT(S)  - Bu0
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D7Ry3LAo=
+VfWOLjSXhyJZ94A=3D=3D&gt;
+
+COMPLAINT #14585819 (7/25/2020) @BBB
+__
+
+)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DEJfqnPT=
+Vv0u9BQ/iFgKRew=3D=3D&gt;
+
+600 IN PENALTIES WERE ARBITRARILY INVOICED, PAID, AND REMAIN UN-REFUNDED
+AND PAID - UNLAWFUL FEES - ... show more
+__
+EXHIBIT(S)  - P/5
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DhSVGBDz=
+7FlXskw5BZ_PLUS_e_PLUS_ZA=3D=3D&gt;
+
+00001_PAYMENT_05_30_2020
+__
+EXHIBIT(S)  - P/6
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DiK7ZjdN=
+LVty6kLSL4SjeoA=3D=3D&gt;
+
+00002_LANDLORD_REFUSES_PAYMENT
+__
+EXHIBIT(S)  - P/7
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D2lQuDSf=
+Pu51L3OhNqqRGvg=3D=3D&gt;
+
+00003_PAYMENT_04_30_2020 - RENT PAYMENTS ALWAYS ON TIME
+
+
+EXHIBIT(S)  - GS1  (Motion #001)
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D_PLUS_T=
+lrEGCsUUcCcvtJ8O/dfg=3D=3D&gt;
+
+PLAINTIFFS POLICIES AND PROCEDURES
+__
+
+EXHIBIT(S)  - ins
+&lt;https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DmzFuOKA=
+Up7O4ARBxH4uCDA=3D=3D&gt;
+
+insurance requirement and policy
+</code></pre></blockquote><p style=3D"margin-top:0px;margin-bottom:16px;col=
+or:rgb(5, 5, 5);font-family:inter;">-------- Forwarded Message -------- Sub=
+ject: Fwd: Re: 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS, ETC. Dat=
+e: Sat, 4 Jun 2022 14:02:49 -0500 From: B D2022&nbsp;<a shape=3D"rect" ymai=
+lto=3D"mailto:ms60710444266@yahoo.com" href=3D"mailto:ms60710444266@yahoo.c=
+om" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferre=
+r noopener">ms60710444266@yahoo.com</a>&nbsp;To: Yana Siegel&nbsp;<a shape=
+=3D"rect" ymailto=3D"mailto:yana.siegel@wilsonelser.com" href=3D"mailto:yan=
+a.siegel@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_b=
+lank" rel=3D"noreferrer noopener">yana.siegel@wilsonelser.com</a>, WILLIAM =
+BEHR&nbsp;<a shape=3D"rect" ymailto=3D"mailto:william.behr@wilsonelser.com"=
+ href=3D"mailto:william.behr@wilsonelser.com" style=3D"text-decoration-line=
+:none;" target=3D"_blank" rel=3D"noreferrer noopener">william.behr@wilsonel=
+ser.com</a>, Urvashi Sinha&nbsp;<a shape=3D"rect" ymailto=3D"mailto:urvashi=
+.sinha@wilsonelser.com" href=3D"mailto:urvashi.sinha@wilsonelser.com" style=
+=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopene=
+r">urvashi.sinha@wilsonelser.com</a>, Thomas R. Manisero&nbsp;<a shape=3D"r=
+ect" ymailto=3D"mailto:thomas.manisero@wilsonelser.com" href=3D"mailto:thom=
+as.manisero@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D=
+"_blank" rel=3D"noreferrer noopener">thomas.manisero@wilsonelser.com</a>, S=
+uzanne S. Swanson&nbsp;<a shape=3D"rect" ymailto=3D"mailto:suzanne.swanson@=
+wilsonelser.com" href=3D"mailto:suzanne.swanson@wilsonelser.com" style=3D"t=
+ext-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">su=
+zanne.swanson@wilsonelser.com</a>, Stephen J. Barrett&nbsp;<a shape=3D"rect=
+" ymailto=3D"mailto:stephen.barrett@wilsonelser.com" href=3D"mailto:stephen=
+.barrett@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_b=
+lank" rel=3D"noreferrer noopener">stephen.barrett@wilsonelser.com</a>, Stac=
+ey L. Seltzer&nbsp;<a shape=3D"rect" ymailto=3D"mailto:stacey.seltzer@wilso=
+nelser.com" href=3D"mailto:stacey.seltzer@wilsonelser.com" style=3D"text-de=
+coration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">stacey.s=
+eltzer@wilsonelser.com</a>, Sean Wagner&nbsp;<a shape=3D"rect" ymailto=3D"m=
+ailto:sean.wagner@wilsonelser.com" href=3D"mailto:sean.wagner@wilsonelser.c=
+om" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferre=
+r noopener">sean.wagner@wilsonelser.com</a>, Roger R. Gottilla&nbsp;<a shap=
+e=3D"rect" ymailto=3D"mailto:roger.gottilla@wilsonelser.com" href=3D"mailto=
+:roger.gottilla@wilsonelser.com" style=3D"text-decoration-line:none;" targe=
+t=3D"_blank" rel=3D"noreferrer noopener">roger.gottilla@wilsonelser.com</a>=
+, Ricki Roer&nbsp;<a shape=3D"rect" ymailto=3D"mailto:ricki.roer@wilsonelse=
+r.com" href=3D"mailto:ricki.roer@wilsonelser.com" style=3D"text-decoration-=
+line:none;" target=3D"_blank" rel=3D"noreferrer noopener">ricki.roer@wilson=
+elser.com</a>, Ricki Roer&nbsp;<a shape=3D"rect" ymailto=3D"mailto:ricki.ro=
+er@wilsonanddicker.com" href=3D"mailto:ricki.roer@wilsonanddicker.com" styl=
+e=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopen=
+er">ricki.roer@wilsonanddicker.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"m=
+ailto:ricki.raared@wilsonsdickers.com" href=3D"mailto:ricki.raared@wilsonsd=
+ickers.com" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"n=
+oreferrer noopener">ricki.raared@wilsonsdickers.com</a>&nbsp;<a shape=3D"re=
+ct" ymailto=3D"mailto:ricki.raared@wilsonsdickers.com" href=3D"mailto:ricki=
+.raared@wilsonsdickers.com" style=3D"text-decoration-line:none;" target=3D"=
+_blank" rel=3D"noreferrer noopener">ricki.raared@wilsonsdickers.com</a>,&nb=
+sp;<a shape=3D"rect" ymailto=3D"mailto:patricia.wik@wilsonelser.com" href=
+=3D"mailto:patricia.wik@wilsonelser.com" style=3D"text-decoration-line:none=
+;" target=3D"_blank" rel=3D"noreferrer noopener">patricia.wik@wilsonelser.c=
+om</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:meghan.rigney@wilsonelser.=
+com" href=3D"mailto:meghan.rigney@wilsonelser.com" style=3D"text-decoration=
+-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">meghan.rigney@wi=
+lsonelser.com</a>, Lori Semlies&nbsp;<a shape=3D"rect" ymailto=3D"mailto:lo=
+ri.semlies@wilsonelser.com" href=3D"mailto:lori.semlies@wilsonelser.com" st=
+yle=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noop=
+ener">lori.semlies@wilsonelser.com</a>, Lois K. Ottombrino&nbsp;<a shape=3D=
+"rect" ymailto=3D"mailto:lois.ottombrino@wilsonelser.com" href=3D"mailto:lo=
+is.ottombrino@wilsonelser.com" style=3D"text-decoration-line:none;" target=
+=3D"_blank" rel=3D"noreferrer noopener">lois.ottombrino@wilsonelser.com</a>=
+, Lauren M. Zink&nbsp;<a shape=3D"rect" ymailto=3D"mailto:lauren.zink@wilso=
+nelser.com" href=3D"mailto:lauren.zink@wilsonelser.com" style=3D"text-decor=
+ation-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">lauren.zink=
+@wilsonelser.com</a>, Kathleen A. Mullins&nbsp;<a shape=3D"rect" ymailto=3D=
+"mailto:kathleen.mullins@wilsonelser.com" href=3D"mailto:kathleen.mullins@w=
+ilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_blank" rel=
+=3D"noreferrer noopener">kathleen.mullins@wilsonelser.com</a>,&nbsp;<a shap=
+e=3D"rect" ymailto=3D"mailto:jwilson578@bloomberg.net" href=3D"mailto:jwils=
+on578@bloomberg.net" style=3D"text-decoration-line:none;" target=3D"_blank"=
+ rel=3D"noreferrer noopener">jwilson578@bloomberg.net</a>,&nbsp;<a shape=3D=
+"rect" ymailto=3D"mailto:judy.selmeci@wilsonelser.com" href=3D"mailto:judy.=
+selmeci@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_bl=
+ank" rel=3D"noreferrer noopener">judy.selmeci@wilsonelser.com</a>, Jennifer=
+ L. Sciales&nbsp;<a shape=3D"rect" ymailto=3D"mailto:jennifer.sciales@wilso=
+nelser.com" href=3D"mailto:jennifer.sciales@wilsonelser.com" style=3D"text-=
+decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">jennif=
+er.sciales@wilsonelser.com</a>, Jennifer M. Provost&nbsp;<a shape=3D"rect" =
+ymailto=3D"mailto:jennifer.provost@wilsonelser.com" href=3D"mailto:jennifer=
+.provost@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_b=
+lank" rel=3D"noreferrer noopener">jennifer.provost@wilsonelser.com</a>,&nbs=
+p;<a shape=3D"rect" ymailto=3D"mailto:info@wilsonelser.com" href=3D"mailto:=
+info@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_blank=
+" rel=3D"noreferrer noopener">info@wilsonelser.com</a>,&nbsp;<a shape=3D"re=
+ct" ymailto=3D"mailto:Hannah.King@WILSONELSER.COM" href=3D"mailto:Hannah.Ki=
+ng@WILSONELSER.COM" style=3D"text-decoration-line:none;" target=3D"_blank" =
+rel=3D"noreferrer noopener">Hannah.King@WILSONELSER.COM</a>,&nbsp;<a shape=
+=3D"rect" ymailto=3D"mailto:grace.song@wilsonelser.com" href=3D"mailto:grac=
+e.song@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_bla=
+nk" rel=3D"noreferrer noopener">grace.song@wilsonelser.com</a>,&nbsp;<a sha=
+pe=3D"rect" ymailto=3D"mailto:erin.zecca@wilsonelser.com" href=3D"mailto:er=
+in.zecca@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_b=
+lank" rel=3D"noreferrer noopener">erin.zecca@wilsonelser.com</a>,&nbsp;<a s=
+hape=3D"rect" ymailto=3D"mailto:ellyn.wilder@wilsonelser.com" href=3D"mailt=
+o:ellyn.wilder@wilsonelser.com" style=3D"text-decoration-line:none;" target=
+=3D"_blank" rel=3D"noreferrer noopener">ellyn.wilder@wilsonelser.com</a>,&n=
+bsp;<a shape=3D"rect" ymailto=3D"mailto:elizabeth.scoditti@wilsonelser.com"=
+ href=3D"mailto:elizabeth.scoditti@wilsonelser.com" style=3D"text-decoratio=
+n-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">elizabeth.scodi=
+tti@wilsonelser.com</a>, Debra Tama&nbsp;<a shape=3D"rect" ymailto=3D"mailt=
+o:debra.tama@wilsonelser.com" href=3D"mailto:debra.tama@wilsonelser.com" st=
+yle=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noop=
+ener">debra.tama@wilsonelser.com</a>, Daniel F. Flores&nbsp;<a shape=3D"rec=
+t" ymailto=3D"mailto:daniel.flores@wilsonelser.com" href=3D"mailto:daniel.f=
+lores@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_blan=
+k" rel=3D"noreferrer noopener">daniel.flores@wilsonelser.com</a>,&nbsp;<a s=
+hape=3D"rect" ymailto=3D"mailto:curt.schlom@wilsonelser.com" href=3D"mailto=
+:curt.schlom@wilsonelser.com" style=3D"text-decoration-line:none;" target=
+=3D"_blank" rel=3D"noreferrer noopener">curt.schlom@wilsonelser.com</a>,&nb=
+sp;<a shape=3D"rect" ymailto=3D"mailto:craig.hunter@wilsonelser.com" href=
+=3D"mailto:craig.hunter@wilsonelser.com" style=3D"text-decoration-line:none=
+;" target=3D"_blank" rel=3D"noreferrer noopener">craig.hunter@wilsonelser.c=
+om</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:craig.brinker@wilsonelser.=
+com" href=3D"mailto:craig.brinker@wilsonelser.com" style=3D"text-decoration=
+-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">craig.brinker@wi=
+lsonelser.com</a>, Corrine Shea&nbsp;<a shape=3D"rect" ymailto=3D"mailto:co=
+rrine.shea@wilsonelser.com" href=3D"mailto:corrine.shea@wilsonelser.com" st=
+yle=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noop=
+ener">corrine.shea@wilsonelser.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"m=
+ailto:carole.nimaroff@wilsonelser.com" href=3D"mailto:carole.nimaroff@wilso=
+nelser.com" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"n=
+oreferrer noopener">carole.nimaroff@wilsonelser.com</a>,&nbsp;<a shape=3D"r=
+ect" ymailto=3D"mailto:aviva.stein@wilsonelser.com" href=3D"mailto:aviva.st=
+ein@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_blank"=
+ rel=3D"noreferrer noopener">aviva.stein@wilsonelser.com</a>, Ashley V. Hum=
+phries&nbsp;<a shape=3D"rect" ymailto=3D"mailto:ashley.humphries@wilsonelse=
+r.com" href=3D"mailto:ashley.humphries@wilsonelser.com" style=3D"text-decor=
+ation-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">ashley.hump=
+hries@wilsonelser.com</a>, Angelique Sabia-Candero&nbsp;<a shape=3D"rect" y=
+mailto=3D"mailto:angelique.sabia-candero@wilsonelser.com" href=3D"mailto:an=
+gelique.sabia-candero@wilsonelser.com" style=3D"text-decoration-line:none;"=
+ target=3D"_blank" rel=3D"noreferrer noopener">angelique.sabia-candero@wils=
+onelser.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:angel.vitiello@wi=
+lsonelser.com" href=3D"mailto:angel.vitiello@wilsonelser.com" style=3D"text=
+-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">angel=
+.vitiello@wilsonelser.com</a>, Andrea Shiffman&nbsp;<a shape=3D"rect" ymail=
+to=3D"mailto:andrea.shiffman@wilsonelser.com" href=3D"mailto:andrea.shiffma=
+n@wilsonelser.com" style=3D"text-decoration-line:none;" target=3D"_blank" r=
+el=3D"noreferrer noopener">andrea.shiffman@wilsonelser.com</a>, Amy Hanraha=
+n&nbsp;<a shape=3D"rect" ymailto=3D"mailto:amy.hanrahan@wilsonelser.com" hr=
+ef=3D"mailto:amy.hanrahan@wilsonelser.com" style=3D"text-decoration-line:no=
+ne;" target=3D"_blank" rel=3D"noreferrer noopener">amy.hanrahan@wilsonelser=
+.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:alex.kress@wilsonelser.c=
+om" href=3D"mailto:alex.kress@wilsonelser.com" style=3D"text-decoration-lin=
+e:none;" target=3D"_blank" rel=3D"noreferrer noopener">alex.kress@wilsonels=
+er.com</a>, ALDEN 00066govtIdx WILSON&nbsp;<a shape=3D"rect" ymailto=3D"mai=
+lto:alden.wilson@maine.gov" href=3D"mailto:alden.wilson@maine.gov" style=3D=
+"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">=
+alden.wilson@maine.gov</a>, Alan Rubin&nbsp;<a shape=3D"rect" ymailto=3D"ma=
+ilto:alan.rubin@wilsonelser.com" href=3D"mailto:alan.rubin@wilsonelser.com"=
+ style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer n=
+oopener">alan.rubin@wilsonelser.com</a></p><p style=3D"margin-top:0px;margi=
+n-bottom:16px;color:rgb(5, 5, 5);font-family:inter;">-------- Forwarded Mes=
+sage -------- Subject: RISK =3D $0.00 FOR FILER 93715 ... CONTINUES TO CARR=
+Y THE RISK IN 1516523 Date: Tue, 7 Jun 2022 21:25:47 -0500 From: B D2022&nb=
+sp;<a shape=3D"rect" ymailto=3D"mailto:ms60710444266@yahoo.com" href=3D"mai=
+lto:ms60710444266@yahoo.com" style=3D"text-decoration-line:none;" target=3D=
+"_blank" rel=3D"noreferrer noopener">ms60710444266@yahoo.com</a>&nbsp;To: A=
+lisa Maksimova [FRB-NY]&nbsp;<a shape=3D"rect" ymailto=3D"mailto:Alisa.Maks=
+imova@ny.frb.org" href=3D"mailto:Alisa.Maksimova@ny.frb.org" style=3D"text-=
+decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">Alisa.=
+Maksimova@ny.frb.org</a>, Solis, Anita&nbsp;<a shape=3D"rect" ymailto=3D"ma=
+ilto:anita.solis@chi.frb.org" href=3D"mailto:anita.solis@chi.frb.org" style=
+=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopene=
+r">anita.solis@chi.frb.org</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:Cy=
+nthia.H.Francis@frb.gov" href=3D"mailto:Cynthia.H.Francis@frb.gov" style=3D=
+"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">=
+Cynthia.H.Francis@frb.gov</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:dal=
+las-reserve-mgmt@dal.frb.org" href=3D"mailto:dallas-reserve-mgmt@dal.frb.or=
+g" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer=
+ noopener">dallas-reserve-mgmt@dal.frb.org</a>&nbsp;<a shape=3D"rect" ymail=
+to=3D"mailto:dallas-reserve-mgmt@dal.frb.org" href=3D"mailto:dallas-reserve=
+-mgmt@dal.frb.org" style=3D"text-decoration-line:none;" target=3D"_blank" r=
+el=3D"noreferrer noopener">dallas-reserve-mgmt@dal.frb.org</a>, Mielke, Eva=
+n P&nbsp;<a shape=3D"rect" ymailto=3D"mailto:evan.p.mielke@chi.frb.org" hre=
+f=3D"mailto:evan.p.mielke@chi.frb.org" style=3D"text-decoration-line:none;"=
+ target=3D"_blank" rel=3D"noreferrer noopener">evan.p.mielke@chi.frb.org</a=
+>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:general.info@ny.frb.com" href=
+=3D"mailto:general.info@ny.frb.com" style=3D"text-decoration-line:none;" ta=
+rget=3D"_blank" rel=3D"noreferrer noopener">general.info@ny.frb.com</a>&nbs=
+p;<a shape=3D"rect" ymailto=3D"mailto:general.info@ny.frb.com" href=3D"mail=
+to:general.info@ny.frb.com" style=3D"text-decoration-line:none;" target=3D"=
+_blank" rel=3D"noreferrer noopener">general.info@ny.frb.com</a>,&nbsp;<a sh=
+ape=3D"rect" ymailto=3D"mailto:general.info@ny.frb.org" href=3D"mailto:gene=
+ral.info@ny.frb.org" style=3D"text-decoration-line:none;" target=3D"_blank"=
+ rel=3D"noreferrer noopener">general.info@ny.frb.org</a>&nbsp;<a shape=3D"r=
+ect" ymailto=3D"mailto:general.info@ny.frb.org" href=3D"mailto:general.info=
+@ny.frb.org" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"=
+noreferrer noopener">general.info@ny.frb.org</a>,&nbsp;<a shape=3D"rect" ym=
+ailto=3D"mailto:kenneth.j.fraser@frb.gov" href=3D"mailto:kenneth.j.fraser@f=
+rb.gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noref=
+errer noopener">kenneth.j.fraser@frb.gov</a>,&nbsp;<a shape=3D"rect" ymailt=
+o=3D"mailto:media@chi.frb.org" href=3D"mailto:media@chi.frb.org" style=3D"t=
+ext-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">me=
+dia@chi.frb.org</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:media@chi.frb.=
+org" href=3D"mailto:media@chi.frb.org" style=3D"text-decoration-line:none;"=
+ target=3D"_blank" rel=3D"noreferrer noopener">media@chi.frb.org</a>,&nbsp;=
+<a shape=3D"rect" ymailto=3D"mailto:ny.public.information@ny.frb.org" href=
+=3D"mailto:ny.public.information@ny.frb.org" style=3D"text-decoration-line:=
+none;" target=3D"_blank" rel=3D"noreferrer noopener">ny.public.information@=
+ny.frb.org</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:ny.reserves@ny.frb=
+.org" href=3D"mailto:ny.reserves@ny.frb.org" style=3D"text-decoration-line:=
+none;" target=3D"_blank" rel=3D"noreferrer noopener">ny.reserves@ny.frb.org=
+</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:ny.reserves@ny.frb.org" href=
+=3D"mailto:ny.reserves@ny.frb.org" style=3D"text-decoration-line:none;" tar=
+get=3D"_blank" rel=3D"noreferrer noopener">ny.reserves@ny.frb.org</a>,&nbsp=
+;<a shape=3D"rect" ymailto=3D"mailto:nyreporting.forms@ny.frb.org" href=3D"=
+mailto:nyreporting.forms@ny.frb.org" style=3D"text-decoration-line:none;" t=
+arget=3D"_blank" rel=3D"noreferrer noopener">nyreporting.forms@ny.frb.org</=
+a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:nyreporting.forms@ny.frb.org" h=
+ref=3D"mailto:nyreporting.forms@ny.frb.org" style=3D"text-decoration-line:n=
+one;" target=3D"_blank" rel=3D"noreferrer noopener">nyreporting.forms@ny.fr=
+b.org</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:oighotline@frb.gov" hre=
+f=3D"mailto:oighotline@frb.gov" style=3D"text-decoration-line:none;" target=
+=3D"_blank" rel=3D"noreferrer noopener">oighotline@frb.gov</a>&nbsp;<a shap=
+e=3D"rect" ymailto=3D"mailto:oighotline@frb.gov" href=3D"mailto:oighotline@=
+frb.gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"nore=
+ferrer noopener">oighotline@frb.gov</a>,&nbsp;<a shape=3D"rect" ymailto=3D"=
+mailto:reserves@chi.frb.org" href=3D"mailto:reserves@chi.frb.org" style=3D"=
+text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">r=
+eserves@chi.frb.org</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:reserves@c=
+hi.frb.org" href=3D"mailto:reserves@chi.frb.org" style=3D"text-decoration-l=
+ine:none;" target=3D"_blank" rel=3D"noreferrer noopener">reserves@chi.frb.o=
+rg</a>, Sec News&nbsp;<a shape=3D"rect" ymailto=3D"mailto:webmaster@sec.gov=
+" href=3D"mailto:webmaster@sec.gov" style=3D"text-decoration-line:none;" ta=
+rget=3D"_blank" rel=3D"noreferrer noopener">webmaster@sec.gov</a>,&nbsp;<a =
+shape=3D"rect" ymailto=3D"mailto:texas@sec.gov" href=3D"mailto:texas@sec.go=
+v" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer=
+ noopener">texas@sec.gov</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:shar=
+eholderproposals@sec.gov" href=3D"mailto:shareholderproposals@sec.gov" styl=
+e=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopen=
+er">shareholderproposals@sec.gov</a>&nbsp;<a shape=3D"rect" ymailto=3D"mail=
+to:shareholderproposals@sec.gov" href=3D"mailto:shareholderproposals@sec.go=
+v" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer=
+ noopener">shareholderproposals@sec.gov</a>,&nbsp;<a shape=3D"rect" ymailto=
+=3D"mailto:Secretarys-Office@sec.gov" href=3D"mailto:Secretarys-Office@sec.=
+gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferr=
+er noopener">Secretarys-Office@sec.gov</a>, Rule-Comments&nbsp;<a shape=3D"=
+rect" ymailto=3D"mailto:rule-comments@sec.gov" href=3D"mailto:rule-comments=
+@sec.gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"nor=
+eferrer noopener">rule-comments@sec.gov</a>,&nbsp;<a shape=3D"rect" ymailto=
+=3D"mailto:publicinfo@sec.gov" href=3D"mailto:publicinfo@sec.gov" style=3D"=
+text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">p=
+ublicinfo@sec.gov</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:publicinfo@s=
+ec.gov" href=3D"mailto:publicinfo@sec.gov" style=3D"text-decoration-line:no=
+ne;" target=3D"_blank" rel=3D"noreferrer noopener">publicinfo@sec.gov</a>,&=
+nbsp;<a shape=3D"rect" ymailto=3D"mailto:philadelphia@sec.gov" href=3D"mail=
+to:philadelphia@sec.gov" style=3D"text-decoration-line:none;" target=3D"_bl=
+ank" rel=3D"noreferrer noopener">philadelphia@sec.gov</a>, Pamela Gibbs [SE=
+C]&nbsp;<a shape=3D"rect" ymailto=3D"mailto:OMWI@sec.gov" href=3D"mailto:OM=
+WI@sec.gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"n=
+oreferrer noopener">OMWI@sec.gov</a>, Ombudsman&nbsp;<a shape=3D"rect" ymai=
+lto=3D"mailto:Ombudsman@sec.gov" href=3D"mailto:Ombudsman@sec.gov" style=3D=
+"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">=
+Ombudsman@sec.gov</a>, Carl Hoecker [SEC]&nbsp;<a shape=3D"rect" ymailto=3D=
+"mailto:OIG@sec.gov" href=3D"mailto:OIG@sec.gov" style=3D"text-decoration-l=
+ine:none;" target=3D"_blank" rel=3D"noreferrer noopener">OIG@sec.gov</a>,&n=
+bsp;<a shape=3D"rect" ymailto=3D"mailto:oca@sec.gov" href=3D"mailto:oca@sec=
+.gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"norefer=
+rer noopener">oca@sec.gov</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:oca@=
+sec.gov" href=3D"mailto:oca@sec.gov" style=3D"text-decoration-line:none;" t=
+arget=3D"_blank" rel=3D"noreferrer noopener">oca@sec.gov</a>,&nbsp;<a shape=
+=3D"rect" ymailto=3D"mailto:NYROBankruptcy@SEC.GOV" href=3D"mailto:NYROBank=
+ruptcy@SEC.GOV" style=3D"text-decoration-line:none;" target=3D"_blank" rel=
+=3D"noreferrer noopener">NYROBankruptcy@SEC.GOV</a>,&nbsp;<a shape=3D"rect"=
+ ymailto=3D"mailto:newyork@sec.gov" href=3D"mailto:newyork@sec.gov" style=
+=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopene=
+r">newyork@sec.gov</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:newyork@sec=
+.gov" href=3D"mailto:newyork@sec.gov" style=3D"text-decoration-line:none;" =
+target=3D"_blank" rel=3D"noreferrer noopener">newyork@sec.gov</a>,&nbsp;<a =
+shape=3D"rect" ymailto=3D"mailto:losangeles@sec.gov" href=3D"mailto:losange=
+les@sec.gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"=
+noreferrer noopener">losangeles@sec.gov</a>&nbsp;<a shape=3D"rect" ymailto=
+=3D"mailto:losangeles@sec.gov" href=3D"mailto:losangeles@sec.gov" style=3D"=
+text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">l=
+osangeles@sec.gov</a>, IMshareholderproposals&nbsp;<a shape=3D"rect" ymailt=
+o=3D"mailto:IMShareholderProposals@sec.gov" href=3D"mailto:IMShareholderPro=
+posals@sec.gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=
+=3D"noreferrer noopener">IMShareholderProposals@sec.gov</a>,&nbsp;<a shape=
+=3D"rect" ymailto=3D"mailto:foiapa@sec.gov" href=3D"mailto:foiapa@sec.gov" =
+style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer no=
+opener">foiapa@sec.gov</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:dfw@se=
+c.gov" href=3D"mailto:dfw@sec.gov" style=3D"text-decoration-line:none;" tar=
+get=3D"_blank" rel=3D"noreferrer noopener">dfw@sec.gov</a>&nbsp;<a shape=3D=
+"rect" ymailto=3D"mailto:dfw@sec.gov" href=3D"mailto:dfw@sec.gov" style=3D"=
+text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">d=
+fw@sec.gov</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:denver@sec.gov" hr=
+ef=3D"mailto:denver@sec.gov" style=3D"text-decoration-line:none;" target=3D=
+"_blank" rel=3D"noreferrer noopener">denver@sec.gov</a>,&nbsp;<a shape=3D"r=
+ect" ymailto=3D"mailto:dcaoletters@sec.gov" href=3D"mailto:dcaoletters@sec.=
+gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferr=
+er noopener">dcaoletters@sec.gov</a>&nbsp;<a shape=3D"rect" ymailto=3D"mail=
+to:dcaoletters@sec.gov" href=3D"mailto:dcaoletters@sec.gov" style=3D"text-d=
+ecoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">dcaolet=
+ters@sec.gov</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:cshugg@usinfosec=
+.com" href=3D"mailto:cshugg@usinfosec.com" style=3D"text-decoration-line:no=
+ne;" target=3D"_blank" rel=3D"noreferrer noopener">cshugg@usinfosec.com</a>=
+,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:CHICAGO@SEC.GOV" href=3D"mailto:=
+CHICAGO@SEC.GOV" style=3D"text-decoration-line:none;" target=3D"_blank" rel=
+=3D"noreferrer noopener">CHICAGO@SEC.GOV</a>&nbsp;<a shape=3D"rect" ymailto=
+=3D"mailto:CHICAGO@SEC.GOV" href=3D"mailto:CHICAGO@SEC.GOV" style=3D"text-d=
+ecoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">CHICAGO=
+@SEC.GOV</a>, LORI SCHOCK&nbsp;<a shape=3D"rect" ymailto=3D"mailto:CHAIR@SE=
+C.GOV" href=3D"mailto:CHAIR@SEC.GOV" style=3D"text-decoration-line:none;" t=
+arget=3D"_blank" rel=3D"noreferrer noopener">CHAIR@SEC.GOV</a>,&nbsp;<a sha=
+pe=3D"rect" ymailto=3D"mailto:boston@sec.gov" href=3D"mailto:boston@sec.gov=
+" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer =
+noopener">boston@sec.gov</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:bosto=
+n@sec.gov" href=3D"mailto:boston@sec.gov" style=3D"text-decoration-line:non=
+e;" target=3D"_blank" rel=3D"noreferrer noopener">boston@sec.gov</a>,&nbsp;=
+<a shape=3D"rect" ymailto=3D"mailto:atlanta@sec.gov" href=3D"mailto:atlanta=
+@sec.gov" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"nor=
+eferrer noopener">atlanta@sec.gov</a>,&nbsp;<a shape=3D"rect" ymailto=3D"ma=
+ilto:megan.disciullo@pwc.com" href=3D"mailto:megan.disciullo@pwc.com" style=
+=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopene=
+r">megan.disciullo@pwc.com</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:meg=
+an.disciullo@pwc.com" href=3D"mailto:megan.disciullo@pwc.com" style=3D"text=
+-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">megan=
+.disciullo@pwc.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:larissa.vo=
+nlockner@pwc.com" href=3D"mailto:larissa.vonlockner@pwc.com" style=3D"text-=
+decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">lariss=
+a.vonlockner@pwc.com</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:larissa.v=
+onlockner@pwc.com" href=3D"mailto:larissa.vonlockner@pwc.com" style=3D"text=
+-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">laris=
+sa.vonlockner@pwc.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:ryan.a.=
+cangialosi@pwc.com" href=3D"mailto:ryan.a.cangialosi@pwc.com" style=3D"text=
+-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">ryan.=
+a.cangialosi@pwc.com</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:ryan.a.ca=
+ngialosi@pwc.com" href=3D"mailto:ryan.a.cangialosi@pwc.com" style=3D"text-d=
+ecoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">ryan.a.=
+cangialosi@pwc.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:kivalena.s=
+tarr@pwc.com" href=3D"mailto:kivalena.starr@pwc.com" style=3D"text-decorati=
+on-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">kivalena.starr=
+@pwc.com</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:kivalena.starr@pwc.co=
+m" href=3D"mailto:kivalena.starr@pwc.com" style=3D"text-decoration-line:non=
+e;" target=3D"_blank" rel=3D"noreferrer noopener">kivalena.starr@pwc.com</a=
+>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:jordana.strosberg@pwc.com" href=
+=3D"mailto:jordana.strosberg@pwc.com" style=3D"text-decoration-line:none;" =
+target=3D"_blank" rel=3D"noreferrer noopener">jordana.strosberg@pwc.com</a>=
+&nbsp;<a shape=3D"rect" ymailto=3D"mailto:jordana.strosberg@pwc.com" href=
+=3D"mailto:jordana.strosberg@pwc.com" style=3D"text-decoration-line:none;" =
+target=3D"_blank" rel=3D"noreferrer noopener">jordana.strosberg@pwc.com</a>=
+,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:will.b.hodges@pwc.com" href=3D"m=
+ailto:will.b.hodges@pwc.com" style=3D"text-decoration-line:none;" target=3D=
+"_blank" rel=3D"noreferrer noopener">will.b.hodges@pwc.com</a>&nbsp;<a shap=
+e=3D"rect" ymailto=3D"mailto:will.b.hodges@pwc.com" href=3D"mailto:will.b.h=
+odges@pwc.com" style=3D"text-decoration-line:none;" target=3D"_blank" rel=
+=3D"noreferrer noopener">will.b.hodges@pwc.com</a>,&nbsp;<a shape=3D"rect" =
+ymailto=3D"mailto:jennifer.vanoss@pwc.com" href=3D"mailto:jennifer.vanoss@p=
+wc.com" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noref=
+errer noopener">jennifer.vanoss@pwc.com</a>&nbsp;<a shape=3D"rect" ymailto=
+=3D"mailto:jennifer.vanoss@pwc.com" href=3D"mailto:jennifer.vanoss@pwc.com"=
+ style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer n=
+oopener">jennifer.vanoss@pwc.com</a>&nbsp;CC:&nbsp;<a shape=3D"rect" ymailt=
+o=3D"mailto:alex.zuluaga@ey.com" href=3D"mailto:alex.zuluaga@ey.com" style=
+=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopene=
+r">alex.zuluaga@ey.com</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:alex.zu=
+luaga@ey.com" href=3D"mailto:alex.zuluaga@ey.com" style=3D"text-decoration-=
+line:none;" target=3D"_blank" rel=3D"noreferrer noopener">alex.zuluaga@ey.c=
+om</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:david.brown1@ey.com" href=
+=3D"mailto:david.brown1@ey.com" style=3D"text-decoration-line:none;" target=
+=3D"_blank" rel=3D"noreferrer noopener">david.brown1@ey.com</a>&nbsp;<a sha=
+pe=3D"rect" ymailto=3D"mailto:david.brown1@ey.com" href=3D"mailto:david.bro=
+wn1@ey.com" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"n=
+oreferrer noopener">david.brown1@ey.com</a>,&nbsp;<a shape=3D"rect" ymailto=
+=3D"mailto:Deborah.Jones@ey.com" href=3D"mailto:Deborah.Jones@ey.com" style=
+=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopene=
+r">Deborah.Jones@ey.com</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:Debora=
+h.Jones@ey.com" href=3D"mailto:Deborah.Jones@ey.com" style=3D"text-decorati=
+on-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">Deborah.Jones@=
+ey.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:info@ey.com" href=3D"m=
+ailto:info@ey.com" style=3D"text-decoration-line:none;" target=3D"_blank" r=
+el=3D"noreferrer noopener">info@ey.com</a>&nbsp;<a shape=3D"rect" ymailto=
+=3D"mailto:info@ey.com" href=3D"mailto:info@ey.com" style=3D"text-decoratio=
+n-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">info@ey.com</a>=
+,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:jacqueline.kelley@ey.com" href=
+=3D"mailto:jacqueline.kelley@ey.com" style=3D"text-decoration-line:none;" t=
+arget=3D"_blank" rel=3D"noreferrer noopener">jacqueline.kelley@ey.com</a>&n=
+bsp;<a shape=3D"rect" ymailto=3D"mailto:jacqueline.kelley@ey.com" href=3D"m=
+ailto:jacqueline.kelley@ey.com" style=3D"text-decoration-line:none;" target=
+=3D"_blank" rel=3D"noreferrer noopener">jacqueline.kelley@ey.com</a>,&nbsp;=
+<a shape=3D"rect" ymailto=3D"mailto:karim.anani@ey.com" href=3D"mailto:kari=
+m.anani@ey.com" style=3D"text-decoration-line:none;" target=3D"_blank" rel=
+=3D"noreferrer noopener">karim.anani@ey.com</a>&nbsp;<a shape=3D"rect" ymai=
+lto=3D"mailto:karim.anani@ey.com" href=3D"mailto:karim.anani@ey.com" style=
+=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopene=
+r">karim.anani@ey.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:kevin.k=
+limara@ey.com" href=3D"mailto:kevin.klimara@ey.com" style=3D"text-decoratio=
+n-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">kevin.klimara@e=
+y.com</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:kevin.klimara@ey.com" hr=
+ef=3D"mailto:kevin.klimara@ey.com" style=3D"text-decoration-line:none;" tar=
+get=3D"_blank" rel=3D"noreferrer noopener">kevin.klimara@ey.com</a>,&nbsp;<=
+a shape=3D"rect" ymailto=3D"mailto:lee.henderson@ey.com" href=3D"mailto:lee=
+.henderson@ey.com" style=3D"text-decoration-line:none;" target=3D"_blank" r=
+el=3D"noreferrer noopener">lee.henderson@ey.com</a>&nbsp;<a shape=3D"rect" =
+ymailto=3D"mailto:lee.henderson@ey.com" href=3D"mailto:lee.henderson@ey.com=
+" style=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer =
+noopener">lee.henderson@ey.com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailt=
+o:mark.schwartz1@ey.com" href=3D"mailto:mark.schwartz1@ey.com" style=3D"tex=
+t-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">mark=
+.schwartz1@ey.com</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:mark.schwart=
+z1@ey.com" href=3D"mailto:mark.schwartz1@ey.com" style=3D"text-decoration-l=
+ine:none;" target=3D"_blank" rel=3D"noreferrer noopener">mark.schwartz1@ey.=
+com</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:rachel.gerring@ey.com" hr=
+ef=3D"mailto:rachel.gerring@ey.com" style=3D"text-decoration-line:none;" ta=
+rget=3D"_blank" rel=3D"noreferrer noopener">rachel.gerring@ey.com</a>&nbsp;=
+<a shape=3D"rect" ymailto=3D"mailto:rachel.gerring@ey.com" href=3D"mailto:r=
+achel.gerring@ey.com" style=3D"text-decoration-line:none;" target=3D"_blank=
+" rel=3D"noreferrer noopener">rachel.gerring@ey.com</a>, KATHY HOCHUL&nbsp;=
+<a shape=3D"rect" ymailto=3D"mailto:governor.hochul@exec.ny.gov" href=3D"ma=
+ilto:governor.hochul@exec.ny.gov" style=3D"text-decoration-line:none;" targ=
+et=3D"_blank" rel=3D"noreferrer noopener">governor.hochul@exec.ny.gov</a>,&=
+nbsp;<a shape=3D"rect" ymailto=3D"mailto:ACSInspectorGeneral@doi.nyc.gov" h=
+ref=3D"mailto:ACSInspectorGeneral@doi.nyc.gov" style=3D"text-decoration-lin=
+e:none;" target=3D"_blank" rel=3D"noreferrer noopener">ACSInspectorGeneral@=
+doi.nyc.gov</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:ACSInspectorGenera=
+l@doi.nyc.gov" href=3D"mailto:ACSInspectorGeneral@doi.nyc.gov" style=3D"tex=
+t-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">ACSI=
+nspectorGeneral@doi.nyc.gov</a>, Bradley D. Howard&nbsp;<a shape=3D"rect" y=
+mailto=3D"mailto:BHoward@doi.nyc.gov" href=3D"mailto:BHoward@doi.nyc.gov" s=
+tyle=3D"text-decoration-line:none;" target=3D"_blank" rel=3D"noreferrer noo=
+pener">BHoward@doi.nyc.gov</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:mm=
+orris@doi.nyc.gov" href=3D"mailto:mmorris@doi.nyc.gov" style=3D"text-decora=
+tion-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">mmorris@doi.=
+nyc.gov</a>&nbsp;<a shape=3D"rect" ymailto=3D"mailto:mmorris@doi.nyc.gov" h=
+ref=3D"mailto:mmorris@doi.nyc.gov" style=3D"text-decoration-line:none;" tar=
+get=3D"_blank" rel=3D"noreferrer noopener">mmorris@doi.nyc.gov</a>,&nbsp;<a=
+ shape=3D"rect" ymailto=3D"mailto:whistleblowerprotection@doioig.gov" href=
+=3D"mailto:whistleblowerprotection@doioig.gov" style=3D"text-decoration-lin=
+e:none;" target=3D"_blank" rel=3D"noreferrer noopener">whistleblowerprotect=
+ion@doioig.gov</a>,&nbsp;<a shape=3D"rect" ymailto=3D"mailto:squad5complain=
+t@doi.nyc.gov" href=3D"mailto:squad5complaint@doi.nyc.gov" style=3D"text-de=
+coration-line:none;" target=3D"_blank" rel=3D"noreferrer noopener">squad5co=
+mplaint@doi.nyc.gov</a></p><p style=3D"margin-top:0px;margin-bottom:16px;co=
+lor:rgb(5, 5, 5);font-family:inter;">you can download the email and read re=
+ceipts here: JUNE 3RD - 2020 -- WARNING LETTER [ URL ]</p><p style=3D"margi=
+n-top:0px;margin-bottom:16px;color:rgb(5, 5, 5);font-family:inter;">HERE IS=
+ THE EMAIL:</p><p style=3D"margin-top:0px;margin-bottom:16px;color:rgb(5, 5=
+, 5);font-family:inter;"><a shape=3D"rect" href=3D"https://github.com/BSCPG=
+ROUPHOLDINGSLLC/INDEX153974/raw/20dbe34222e4d634310b57589005a325816e879c/Do=
+cket%20348.%20June%203%2C%202020-1.eml" style=3D"text-decoration-line:none;=
+" target=3D"_blank" rel=3D"noreferrer noopener">https://github.com/BSCPGROU=
+PHOLDINGSLLC/INDEX153974/raw/20dbe34222e4d634310b57589005a325816e879c/Docke=
+t%20348.%20June%203%2C%202020-1.eml</a></p><p style=3D"margin-top:0px;margi=
+n-bottom:16px;color:rgb(5, 5, 5);font-family:inter;">HERE IS A SCHEDULE OF =
+OTHER EMAILS DISTRIBUTED TO MATERIAL PARTIES, AND AT ANY MOMENT TO AVOID TH=
+E RISK OF</p><p style=3D"margin-top:0px;margin-bottom:16px;color:rgb(5, 5, =
+5);font-family:inter;">LIEN &amp; LIABILITY TO THE EXCESS OF $500,000,000.0=
+0</p><p style=3D"margin-top:0px;margin-bottom:16px;color:rgb(5, 5, 5);font-=
+family:inter;">APPROXIMATE "PURPORTED" MARKET CAP</p><ul style=3D"margin-to=
+p:0px;padding-left:1.5em;color:rgb(5, 5, 5);font-family:inter;margin-bottom=
+:0px !important;"><li id=3D"yiv4263504773yMail_cursorElementTracker_1659389=
+446919">UNSURE OF ANY OTHER LINES OF CREDIT WHICH ARE UNDISCLOSED.</li></ul=
+><br clear=3D"none"><div id=3D"yiv4263504773ymail_android_signature">/S/ BO=
+ DINCER</div> <br clear=3D"none"> <div id=3D"yiv4263504773yqt28576" class=
+=3D"yiv4263504773yqt0035703953 yQTDBase"><blockquote style=3D"margin:0 0 20=
+px 0;"> <div style=3D"font-family:Roboto, sans-serif;color:#6D00F6;"> <div>=
+On Fri, Jul 29, 2022 at 12:03 AM, Bo Dincer</div><div>&lt;bo.dincer@yahoo.c=
+om&gt; wrote:</div> </div> <div style=3D"padding:10px 0 0 20px;margin:10px =
+0 0 0;border-left:1px solid #6D00F6;"> <div id=3D"yiv4263504773"><div><div =
+id=3D"yiv4263504773yMail_cursorElementTracker_1659067277424"><a shape=3D"re=
+ct" id=3D"yiv4263504773linkextractor__1659067289629" href=3D"https://github=
+.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ON=
+LY/blob/COMPLAINTS-FILED-IN-MY-BUILDING/Internet%20Crime%20Complaint%20Cent=
+er-1.eml" class=3D"yiv4263504773lEnhancr_1659067291485" target=3D"_blank" r=
+el=3D"noreferrer noopener">FEDERAL-USE-AND-DISTRIBUTION-ONLY/Internet Crime=
+ Complaint Center-1.eml at COMPLAINTS-FILED-IN-MY-BUILDING =C2=B7 WILSON-EL=
+SER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY</a><div id=
+=3D"yiv4263504773lEnhancr_1659067291485" style=3D"max-width:400px;font-fami=
+ly:Helvetica, Arial, sans-serif;position:relative;" data-url=3D"https://git=
+hub.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION=
+-ONLY/blob/COMPLAINTS-FILED-IN-MY-BUILDING/Internet%20Crime%20Complaint%20C=
+enter-1.eml" data-type=3D"LINK_ENHANCR_ATTACHMENT_TYPE_INLINE" data-categor=
+y=3D"" data-embed-url=3D"" data-size=3D"medium" class=3D"yiv4263504773yahoo=
+-link-enhancr-card yiv4263504773yahoo-link-enhancr-cardSize-medium yiv42635=
+04773yahoo-link-enhancr-cardType-yenhancr yiv4263504773yahoo-link-enhancr-c=
+ardCategory- yiv4263504773ymail-preserve-class yiv4263504773ymail-preserve-=
+style" contenteditable=3D"false">
+                       <a shape=3D"rect" href=3D"https://github.com/WILSON-=
+ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/blob/COMP=
+LAINTS-FILED-IN-MY-BUILDING/Internet%20Crime%20Complaint%20Center-1.eml" st=
+yle=3D"text-decoration:none !important;color:#000 !important;" class=3D"yiv=
+4263504773yahoo-enhancr-cardlink" target=3D"_blank" rel=3D"noreferrer noope=
+ner">
+                           <table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" style=3D"max-width:400px;" class=3D"yiv4263504773card-wrapper yiv42=
+63504773yahoo-ignore-table"><tbody><tr><td colspan=3D"1" rowspan=3D"1" widt=
+h=3D"400">
+                                   <table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" width=3D"100%" style=3D"max-width:400px;" class=3D"yiv42635=
+04773card yiv4263504773yahoo-ignore-table"><tbody><tr><td colspan=3D"1" row=
+span=3D"1" valign=3D"top" style=3D"background:#000 url('https://s.yimg.com/=
+lo/api/res/1.2/TU8kdHdhG7UPLZ4i20m1pw--~A/Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZ=
+D1pZXh0cmFjdA--/https://opengraph.githubassets.com/722742a5e0601a5efa4203c5=
+87fa0461ae2523b16de0e6b6d819473b4ff74004/WILSON-ELSER-STATEFARM-SULLIVAN-ZU=
+CKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY.cf.jpg') no-repeat center center;bac=
+kground-size:cover;min-height:200px;position:relative;" background=3D"https=
+://s.yimg.com/lo/api/res/1.2/TU8kdHdhG7UPLZ4i20m1pw--~A/Zmk9ZmlsbDt3PTQwMDt=
+oPTIwMDthcHBpZD1pZXh0cmFjdA--/https://opengraph.githubassets.com/722742a5e0=
+601a5efa4203c587fa0461ae2523b16de0e6b6d819473b4ff74004/WILSON-ELSER-STATEFA=
+RM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY.cf.jpg" bgcolor=3D"#00=
+0000" class=3D"yiv4263504773card-primary-image-cell">
+
+                                              =20
+
+                                               <table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" style=3D"width:100%;" class=3D"yiv4263504773yah=
+oo-ignore-table"><tbody><tr><td colspan=3D"1" rowspan=3D"1" valign=3D"top" =
+style=3D"background:transparent url('https://s.yimg.com/nq/storm/assets/enh=
+ancrV2/12/overlay-tile.png') repeat left top;min-height:200px;" background=
+=3D"https://s.yimg.com/nq/storm/assets/enhancrV2/12/overlay-tile.png" bgcol=
+or=3D"transparent">
+
+                                                          =20
+
+                                                           <table height=3D=
+"185" style=3D"width:100%;min-height:185px;min-height:185px;" class=3D"yiv4=
+263504773yahoo-ignore-table"><tbody><tr><td colspan=3D"1" rowspan=3D"1" sty=
+le=3D"text-align:left;text-align:left;padding:15px 0 0 15px;vertical-align:=
+top;" class=3D"yiv4263504773card-richInfo2">
+                                                                   </td><td=
+ colspan=3D"1" rowspan=3D"1" style=3D"text-align:right;padding:15px 15px 0 =
+0;vertical-align:top;" class=3D"yiv4263504773card-actions">
+                                                                       <div=
+ class=3D"yiv4263504773card-share-container"></div>
+                                                                   </td></t=
+r></tbody></table>
+
+                                                          =20
+                                                       </td></tr></tbody></=
+table>
+                                           </td></tr><tr><td colspan=3D"1" =
+rowspan=3D"1">
+                                               <table align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background:#fff;posit=
+ion:relative;z-index:2;width:95%;max-width:380px;border:1px solid #e0e4e9;b=
+order-bottom:3px solid;margin-left:auto;margin-right:auto;" class=3D"yiv426=
+3504773card-info yiv4263504773yahoo-ignore-table"><tbody><tr><td colspan=3D=
+"1" rowspan=3D"1" style=3D"background-color:#ffffff;padding:16px 0 16px 12p=
+x;vertical-align:top;">
+                                                       </td><td colspan=3D"=
+1" rowspan=3D"1" style=3D"vertical-align:middle;padding:16px 12px;width:99%=
+;">
+                                                           <h2 style=3D"fon=
+t-size:16px;line-height:19px;margin:0 0 4px 0;font-family:'Helvetica Neue',=
+ Helvetica, Arial, sans-serif;" class=3D"yiv4263504773card-title">FEDERAL-U=
+SE-AND-DISTRIBUTION-ONLY/Internet Crime Complaint Center-1.eml at COMPLAINT=
+S-FILED-IN-MY-BUILDING =C2=B7 WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERA=
+L-USE-AND-DISTRIBUTION-ONLY</h2>
+                                                           <p style=3D"font=
+-size:11px;line-height:15px;color:#999;" class=3D"yiv4263504773card-descrip=
+tion">Config files for my GitHub profile. Contribute to WILSON-ELSER-STATEF=
+ARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY development by creati=
+ng an account on GitHub.</p>
+                                                       </td><td colspan=3D"=
+1" rowspan=3D"1" style=3D"text-align:right;padding:16px 12px 16px 0;">
+                                                       </td></tr></tbody></=
+table>
+                                           </td></tr></tbody></table>
+                               </td></tr></tbody></table>
+                       </a>
+                   </div></div><div id=3D"yiv4263504773yMail_cursorElementT=
+racker_1659067289662"><br clear=3D"none"></div><div id=3D"yiv4263504773yMai=
+l_cursorElementTracker_1659067289869">???</div><div id=3D"yiv4263504773yMai=
+l_cursorElementTracker_1659067292317"><br clear=3D"none"></div>From - Mon, =
+27 Jun 2022 23:10:24 GMT<div>X-Mozilla-Status: 1001</div><div>X-Mozilla-Sta=
+tus2: 00800000</div><div>Content-Type: multipart/alternative;</div><div>&nb=
+sp;boundary=3D"------------xxaIlUcWFBVfm8sfmyJ60zxu"</div><div>Message-ID: =
+&lt;6ffe23a8-2e04-dbe5-cd75-69f5aef4f1ee@yahoo.com&gt;</div><div>Date: Mon,=
+ 27 Jun 2022 18:10:16 -0500</div><div>MIME-Version: 1.0</div><div>User-Agen=
+t: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101</div><d=
+iv>&nbsp;Thunderbird/91.9.1</div><div>Content-Language: en-US</div><div>To:=
+ Stephen O'Connell &lt;sgo2107@columbia.edu&gt;</div><div>From: B D2022 &lt=
+;ms60710444266@yahoo.com&gt;</div><div>Bcc: "usdoj@public.govdelivery.com" =
+&lt;usdoj@public.govdelivery.com&gt;,</div><div>&nbsp;"irs@service.govdeliv=
+ery.com" &lt;irs@service.govdelivery.com&gt;,</div><div>&nbsp;"usttb@public=
+.govdelivery.com" &lt;usttb@public.govdelivery.com&gt;,</div><div>&nbsp;"fi=
+nancialeducation@info.consumerfinance.gov"</div><div>&nbsp;&lt;financialedu=
+cation@info.consumerfinance.gov&gt;,</div><div>&nbsp;"DHSOIG@public.govdeli=
+very.com" &lt;DHSOIG@public.govdelivery.com&gt;,</div><div>&nbsp;"vaoig@mes=
+sages.va.gov" &lt;vaoig@messages.va.gov&gt;,</div><div>&nbsp;"pbgc@subscrip=
+tions.pbgc.gov" &lt;pbgc@subscriptions.pbgc.gov&gt;,</div><div>&nbsp;"USPSO=
+IG@public.govdelivery.com" &lt;USPSOIG@public.govdelivery.com&gt;,</div><di=
+v>&nbsp;"cdfifund@service.govdelivery.com" &lt;cdfifund@service.govdelivery=
+.com&gt;,</div><div>&nbsp;"subscribe@subscribe.ftc.gov" &lt;subscribe@subsc=
+ribe.ftc.gov&gt;,</div><div>&nbsp;"vatax@public.govdelivery.com" &lt;vatax@=
+public.govdelivery.com&gt;,</div><div>&nbsp;"tigta@service.govdelivery.com"=
+ &lt;tigta@service.govdelivery.com&gt;,</div><div>&nbsp;"news@updates.sba.g=
+ov" &lt;news@updates.sba.gov&gt;,</div><div>&nbsp;"news@updates.oig.dot.gov=
+" &lt;news@updates.oig.dot.gov&gt;</div><div>Subject: Internet Crime Compla=
+int Center</div><div>Disposition-Notification-To: B D2022 &lt;ms60710444266=
+@yahoo.com&gt;</div><div><br clear=3D"none"></div><div>This is a multi-part=
+ message in MIME format.</div><div>--------------xxaIlUcWFBVfm8sfmyJ60zxu</=
+div><div>Content-Type: text/plain; charset=3DUTF-8; format=3Dflowed</div><d=
+iv id=3D"yiv4263504773yMail_cursorElementTracker_1659067243384"><br clear=
+=3D"none"><br clear=3D"none"><div id=3D"yiv4263504773ymail_android_signatur=
+e">/S/ BO DINCER</div> <br clear=3D"none"> <div id=3D"yiv4263504773yqt61343=
+" class=3D"yiv4263504773yqt5817401106 yiv4263504773yQTDBase"><blockquote st=
+yle=3D"margin:0 0 20px 0;"> <div style=3D"font-family:Roboto, sans-serif;co=
+lor:#6D00F6;"> <div>On Thu, Jul 28, 2022 at 11:56 PM, Bo Dincer</div><div>&=
+lt;bo.dincer@yahoo.com&gt; wrote:</div> </div> <div style=3D"padding:10px 0=
+ 0 20px;margin:10px 0 0 0;border-left:1px solid #6D00F6;"> <a shape=3D"rect=
+" id=3D"yiv4263504773linkextractor__1659066854253" href=3D"https://faxzero.=
+com/status/31316917/6b34c3ad9620003256df358c638765fc2ae387cc" target=3D"_bl=
+ank" rel=3D"noreferrer noopener">https://faxzero.com/status/31316917/6b34c3=
+ad9620003256df358c638765fc2ae387cc</a><div id=3D"yiv4263504773yMail_cursorE=
+lementTracker_1659066854281"><br clear=3D"none">KG2987@COLUMBIA.edu</div><d=
+iv id=3D"yiv4263504773yMail_cursorElementTracker_1659066918432"><br clear=
+=3D"none"></div><div id=3D"yiv4263504773yMail_cursorElementTracker_16590669=
+18629">Not included on this pipeline.&nbsp;</div><div id=3D"yiv4263504773yM=
+ail_cursorElementTracker_1659066910851"><br clear=3D"none"></div><div id=3D=
+"yiv4263504773yMail_cursorElementTracker_1659066911025"><br clear=3D"none">=
+<div id=3D"yiv4263504773ymail_android_signature">/S/ BO DINCER</div> <br cl=
+ear=3D"none"> <blockquote style=3D"margin:0 0 20px 0;"> <div style=3D"font-=
+family:Roboto, sans-serif;color:#6D00F6;"> <div>On Thu, Jul 28, 2022 at 11:=
+51 PM, +19173783467@tmomail.net</div><div>&lt;+19173783467@tmomail.net&gt; =
+wrote:</div> </div> <div style=3D"padding:10px 0 0 20px;margin:10px 0 0 0;b=
+order-left:1px solid #6D00F6;"> <div dir=3D"ltr"><a shape=3D"rect" href=3D"=
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-D=
+ISTRIBUTION-ONLY/find/COMPLAINTS-FILED-IN-MY-BUILDING" target=3D"_blank" re=
+l=3D"noreferrer noopener">https://github.com/WILSON-ELSER-STATEFARM-SULLIVA=
+N-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/find/COMPLAINTS-FILED-IN-MY-BUIL=
+DING</a></div> </div> </blockquote></div> </div> </blockquote></div></div><=
+/div></div> </div> </blockquote></div></div></div> </div> </blockquote></di=
+v>
+------=_Part_83935_1393616588.1659405530675--
